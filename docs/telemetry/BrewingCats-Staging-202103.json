@@ -1,0 +1,19 @@
+{
+  "timezone": "UTC-8",
+  "timestamp": "3/1/2021 11:42:34 PM",
+  "height": 1040,
+  "tagId": "tagId_1",
+  "caller": "document.body",
+  "message": "Loading: http://localhost:1313/posts/",
+  "SessionId": "810c87ed-35d9-c8f1-30f930f1-5a6b81325208",
+  "logId": "810c87ed-20210301T234234295",
+  "siteVersion": "3.15.17",
+  "indexId": "202103",
+  "ticks": 1614642154295,
+  "client": "BrewingCatsCore",
+  "type": "Info",
+  "ClientId": "e73fc4cb-e84a-0941-87b1b062-29f15835246e",
+  "category": "Bootstrap",
+  "url": "http://localhost:1313/posts/",
+  "width": 1920
+}

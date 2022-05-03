@@ -1,0 +1,2680 @@
+<Objs Version="1.1.0.1" xmlns="http://schemas.microsoft.com/powershell/2004/04">
+  <Obj RefId="0">
+    <TN RefId="0">
+      <T>Deserialized.System.Management.Automation.PSCustomObject</T>
+      <T>Deserialized.System.Object</T>
+    </TN>
+    <MS>
+      <S N="siteVersion">3.26.23</S>
+      <S N="timezone">UTC-8</S>
+      <S N="SessionId">14dcce45-d1b1-69f1-1d51f912-74dd5155eb59</S>
+      <S N="logId">14dcce45-20211224T000000028</S>
+      <I64 N="ticks">1640304000028</I64>
+      <S N="url">https://staging.brewingcats.com/es/posts/projects/gaming/</S>
+      <S N="message">Loading: https://staging.brewingcats.com/es/posts/projects/gaming/</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/24/2021 12:00:00 AM</S>
+      <S N="caller">document.body</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">bd751232-d8de-812a-792c6767-2e0f0415d9b9</S>
+      <I64 N="width">412</I64>
+      <I64 N="height">732</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="1">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="siteVersion">0.8.22</S>
+      <S N="timezone">UTC-8</S>
+      <S N="SessionId">1df0d4de-9d9e-d0e0-1c3a6bdf-fa82e3b5a12d</S>
+      <S N="logId">1df0d4de-20211215T065037127</S>
+      <I64 N="ticks">1639551037127</I64>
+      <S N="url">https://staging.olainterpreting.com/</S>
+      <S N="message">Loading: https://staging.olainterpreting.com/</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/15/2021 6:50:37 AM</S>
+      <S N="caller">document.body</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">21f62af2-8143-ab2b-09c4950c-7193ec7bb563</S>
+      <I64 N="width">1773</I64>
+      <I64 N="height">1041</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="2">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="client">BrewingCatsCore</S>
+      <S N="timestamp">12/15/2021 6:50:39 AM</S>
+      <I64 N="ticks">1639551039920</I64>
+      <S N="ClientId">21f62af2-8143-ab2b-09c4950c-7193ec7bb563</S>
+      <S N="message">User accepted TOS</S>
+      <S N="tagId">tagId_2</S>
+      <S N="type">Info</S>
+      <S N="caller">gdpr.toast</S>
+      <S N="logId">1df0d4de-20211215T065039920</S>
+      <S N="indexId">202112</S>
+      <S N="category">GDPR</S>
+      <S N="SessionId">1df0d4de-9d9e-d0e0-1c3a6bdf-fa82e3b5a12d</S>
+    </MS>
+  </Obj>
+  <Obj RefId="3">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="siteVersion">0.8.22</S>
+      <S N="timezone">UTC-8</S>
+      <S N="SessionId">1df0d4de-9d9e-d0e0-1c3a6bdf-fa82e3b5a12d</S>
+      <S N="logId">1df0d4de-20211215T065046068</S>
+      <I64 N="ticks">1639551046068</I64>
+      <S N="url">https://staging.olainterpreting.com/es/</S>
+      <S N="message">Loading: https://staging.olainterpreting.com/es/</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/15/2021 6:50:46 AM</S>
+      <S N="caller">document.body</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">21f62af2-8143-ab2b-09c4950c-7193ec7bb563</S>
+      <I64 N="width">1773</I64>
+      <I64 N="height">1041</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="4">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="siteVersion">0.8.22</S>
+      <S N="timezone">UTC-8</S>
+      <S N="SessionId">1df0d4de-9d9e-d0e0-1c3a6bdf-fa82e3b5a12d</S>
+      <S N="logId">1df0d4de-20211215T065119825</S>
+      <I64 N="ticks">1639551079825</I64>
+      <S N="url">https://staging.olainterpreting.com/</S>
+      <S N="message">Loading: https://staging.olainterpreting.com/</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/15/2021 6:51:19 AM</S>
+      <S N="caller">document.body</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">21f62af2-8143-ab2b-09c4950c-7193ec7bb563</S>
+      <I64 N="width">1773</I64>
+      <I64 N="height">1041</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="5">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="siteVersion">0.8.22</S>
+      <S N="timezone">UTC-8</S>
+      <S N="SessionId">1df0d4de-9d9e-d0e0-1c3a6bdf-fa82e3b5a12d</S>
+      <S N="logId">1df0d4de-20211218T010346609</S>
+      <I64 N="ticks">1639789426609</I64>
+      <S N="url">https://staging.olainterpreting.com/</S>
+      <S N="message">Loading: https://staging.olainterpreting.com/</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/18/2021 1:03:46 AM</S>
+      <S N="caller">document.body</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">21f62af2-8143-ab2b-09c4950c-7193ec7bb563</S>
+      <I64 N="width">1773</I64>
+      <I64 N="height">1041</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="6">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="siteVersion">0.8.22</S>
+      <S N="timezone">UTC-8</S>
+      <S N="SessionId">1df0d4de-9d9e-d0e0-1c3a6bdf-fa82e3b5a12d</S>
+      <S N="logId">1df0d4de-20211229T012630101</S>
+      <I64 N="ticks">1640741190101</I64>
+      <S N="url">https://staging.olainterpreting.com/</S>
+      <S N="message">Loading: https://staging.olainterpreting.com/</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/29/2021 1:26:30 AM</S>
+      <S N="caller">document.body</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">21f62af2-8143-ab2b-09c4950c-7193ec7bb563</S>
+      <I64 N="width">1773</I64>
+      <I64 N="height">1041</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="7">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="siteVersion">0.8.22</S>
+      <S N="timezone">UTC-8</S>
+      <S N="SessionId">1df0d4de-9d9e-d0e0-1c3a6bdf-fa82e3b5a12d</S>
+      <S N="logId">1df0d4de-20211229T012634555</S>
+      <I64 N="ticks">1640741194555</I64>
+      <S N="url">https://staging.olainterpreting.com/</S>
+      <S N="message">Loading: https://staging.olainterpreting.com/</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/29/2021 1:26:34 AM</S>
+      <S N="caller">document.body</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">21f62af2-8143-ab2b-09c4950c-7193ec7bb563</S>
+      <I64 N="width">1773</I64>
+      <I64 N="height">1041</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="8">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1640702884274</I64>
+      <S N="SessionId">2aabdf01-dae6-1352-7a661ca5-44f7de8ce56d</S>
+      <S N="logId">2aabdf01-20211228T144804274</S>
+      <S N="userAgent">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.71 Safari/537.36</S>
+      <S N="message">New user session</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/28/2021 2:48:04 PM</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">1c427fe7-c687-d75d-e6e2db64-d89408eddc3e</S>
+      <S N="tagId">tagId_7</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="9">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="siteVersion">3.26.23</S>
+      <S N="timezone">UTC+0</S>
+      <S N="SessionId">2aabdf01-dae6-1352-7a661ca5-44f7de8ce56d</S>
+      <S N="logId">2aabdf01-20211228T144804279</S>
+      <I64 N="ticks">1640702884279</I64>
+      <S N="url">https://staging.brewingcats.com/</S>
+      <S N="message">Loading: https://staging.brewingcats.com/</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/28/2021 2:48:04 PM</S>
+      <S N="caller">document.body</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">1c427fe7-c687-d75d-e6e2db64-d89408eddc3e</S>
+      <I64 N="width">1600</I64>
+      <I64 N="height">1200</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="10">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1638852112976</I64>
+      <S N="SessionId">39a925bc-2021-7379-e85ec5cc-4cd4490f817c</S>
+      <S N="logId">39a925bc-20211207T044152976</S>
+      <S N="userAgent">Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43</S>
+      <S N="message">New user session</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/7/2021 4:41:52 AM</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">52a43fdd-7db7-936e-450862f0-84fd18bd3a87</S>
+      <S N="tagId">tagId_7</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="11">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="siteVersion">3.26.23</S>
+      <S N="timezone">UTC-8</S>
+      <S N="SessionId">39a925bc-2021-7379-e85ec5cc-4cd4490f817c</S>
+      <S N="logId">39a925bc-20211207T044152982</S>
+      <I64 N="ticks">1638852112982</I64>
+      <S N="url">http://localhost:1313/posts/projects/graficos/menu/</S>
+      <S N="message">Loading: http://localhost:1313/posts/projects/graficos/menu/</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/7/2021 4:41:52 AM</S>
+      <S N="caller">document.body</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">52a43fdd-7db7-936e-450862f0-84fd18bd3a87</S>
+      <I64 N="width">1773</I64>
+      <I64 N="height">1041</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="12">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="client">BrewingCatsCore</S>
+      <S N="timestamp">12/7/2021 4:42:17 AM</S>
+      <I64 N="ticks">1638852137208</I64>
+      <S N="ClientId">52a43fdd-7db7-936e-450862f0-84fd18bd3a87</S>
+      <S N="message">User accepted TOS</S>
+      <S N="tagId">tagId_2</S>
+      <S N="type">Info</S>
+      <S N="caller">gdpr.toast</S>
+      <S N="logId">39a925bc-20211207T044217208</S>
+      <S N="indexId">202112</S>
+      <S N="category">GDPR</S>
+      <S N="SessionId">39a925bc-2021-7379-e85ec5cc-4cd4490f817c</S>
+    </MS>
+  </Obj>
+  <Obj RefId="13">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="siteVersion">3.26.23</S>
+      <S N="timezone">UTC-8</S>
+      <S N="SessionId">39a925bc-2021-7379-e85ec5cc-4cd4490f817c</S>
+      <S N="logId">39a925bc-20211219T205357666</S>
+      <I64 N="ticks">1639947237666</I64>
+      <S N="url">http://localhost:1313/posts/projects/graficos/menu/</S>
+      <S N="message">Loading: http://localhost:1313/posts/projects/graficos/menu/</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/19/2021 8:53:57 PM</S>
+      <S N="caller">document.body</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">52a43fdd-7db7-936e-450862f0-84fd18bd3a87</S>
+      <I64 N="width">1773</I64>
+      <I64 N="height">1041</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="14">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="client">BrewingCatsCore</S>
+      <S N="timestamp">12/19/2021 8:54:14 PM</S>
+      <I64 N="ticks">1639947254741</I64>
+      <S N="ClientId">52a43fdd-7db7-936e-450862f0-84fd18bd3a87</S>
+      <S N="message">User accepted TOS</S>
+      <S N="tagId">tagId_2</S>
+      <S N="type">Info</S>
+      <S N="caller">gdpr.toast</S>
+      <S N="logId">39a925bc-20211219T205414741</S>
+      <S N="indexId">202112</S>
+      <S N="category">GDPR</S>
+      <S N="SessionId">39a925bc-2021-7379-e85ec5cc-4cd4490f817c</S>
+    </MS>
+  </Obj>
+  <Obj RefId="15">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="siteVersion">3.26.23</S>
+      <S N="timezone">UTC-8</S>
+      <S N="SessionId">39a925bc-2021-7379-e85ec5cc-4cd4490f817c</S>
+      <S N="logId">39a925bc-20211219T205453529</S>
+      <I64 N="ticks">1639947293529</I64>
+      <S N="url">http://localhost:1313/posts/site/</S>
+      <S N="message">Loading: http://localhost:1313/posts/site/</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/19/2021 8:54:53 PM</S>
+      <S N="caller">document.body</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">52a43fdd-7db7-936e-450862f0-84fd18bd3a87</S>
+      <I64 N="width">1773</I64>
+      <I64 N="height">1041</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="16">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="siteVersion">3.26.23</S>
+      <S N="timezone">UTC-8</S>
+      <S N="SessionId">39a925bc-2021-7379-e85ec5cc-4cd4490f817c</S>
+      <S N="logId">39a925bc-20211219T205510486</S>
+      <I64 N="ticks">1639947310486</I64>
+      <S N="url">http://localhost:1313/posts/</S>
+      <S N="message">Loading: http://localhost:1313/posts/</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/19/2021 8:55:10 PM</S>
+      <S N="caller">document.body</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">52a43fdd-7db7-936e-450862f0-84fd18bd3a87</S>
+      <I64 N="width">1773</I64>
+      <I64 N="height">1041</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="17">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="siteVersion">3.26.23</S>
+      <S N="timezone">UTC-8</S>
+      <S N="SessionId">39a925bc-2021-7379-e85ec5cc-4cd4490f817c</S>
+      <S N="logId">39a925bc-20211219T205650626</S>
+      <I64 N="ticks">1639947410626</I64>
+      <S N="url">http://localhost:1313/posts/site/</S>
+      <S N="message">Loading: http://localhost:1313/posts/site/</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/19/2021 8:56:50 PM</S>
+      <S N="caller">document.body</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">52a43fdd-7db7-936e-450862f0-84fd18bd3a87</S>
+      <I64 N="width">1773</I64>
+      <I64 N="height">1041</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="18">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="siteVersion">3.26.23</S>
+      <S N="timezone">UTC-8</S>
+      <S N="SessionId">39a925bc-2021-7379-e85ec5cc-4cd4490f817c</S>
+      <S N="logId">39a925bc-20211219T205702173</S>
+      <I64 N="ticks">1639947422173</I64>
+      <S N="url">http://localhost:1313/</S>
+      <S N="message">Loading: http://localhost:1313/</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/19/2021 8:57:02 PM</S>
+      <S N="caller">document.body</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">52a43fdd-7db7-936e-450862f0-84fd18bd3a87</S>
+      <I64 N="width">1773</I64>
+      <I64 N="height">1041</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="19">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="siteVersion">3.26.23</S>
+      <S N="timezone">UTC-8</S>
+      <S N="SessionId">39a925bc-2021-7379-e85ec5cc-4cd4490f817c</S>
+      <S N="logId">39a925bc-20211219T205703792</S>
+      <I64 N="ticks">1639947423792</I64>
+      <S N="url">http://localhost:1313/posts/projects/graficos/menu/</S>
+      <S N="message">Loading: http://localhost:1313/posts/projects/graficos/menu/</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/19/2021 8:57:03 PM</S>
+      <S N="caller">document.body</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">52a43fdd-7db7-936e-450862f0-84fd18bd3a87</S>
+      <I64 N="width">1773</I64>
+      <I64 N="height">1041</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="20">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="siteVersion">3.26.23</S>
+      <S N="timezone">UTC-8</S>
+      <S N="SessionId">39a925bc-2021-7379-e85ec5cc-4cd4490f817c</S>
+      <S N="logId">39a925bc-20211219T205718215</S>
+      <I64 N="ticks">1639947438215</I64>
+      <S N="url">http://localhost:1313/</S>
+      <S N="message">Loading: http://localhost:1313/</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/19/2021 8:57:18 PM</S>
+      <S N="caller">document.body</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">52a43fdd-7db7-936e-450862f0-84fd18bd3a87</S>
+      <I64 N="width">1773</I64>
+      <I64 N="height">1041</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="21">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="siteVersion">3.26.23</S>
+      <S N="timezone">UTC-8</S>
+      <S N="SessionId">39a925bc-2021-7379-e85ec5cc-4cd4490f817c</S>
+      <S N="logId">39a925bc-20211222T230230329</S>
+      <I64 N="ticks">1640214150329</I64>
+      <S N="url">http://localhost:1313/</S>
+      <S N="message">Loading: http://localhost:1313/</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/22/2021 11:02:30 PM</S>
+      <S N="caller">document.body</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">52a43fdd-7db7-936e-450862f0-84fd18bd3a87</S>
+      <I64 N="width">1184</I64>
+      <I64 N="height">1041</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="22">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="client">BrewingCatsCore</S>
+      <S N="timestamp">12/22/2021 11:02:33 PM</S>
+      <I64 N="ticks">1640214153539</I64>
+      <S N="ClientId">52a43fdd-7db7-936e-450862f0-84fd18bd3a87</S>
+      <S N="message">User accepted TOS</S>
+      <S N="tagId">tagId_2</S>
+      <S N="type">Info</S>
+      <S N="caller">gdpr.toast</S>
+      <S N="logId">39a925bc-20211222T230233539</S>
+      <S N="indexId">202112</S>
+      <S N="category">GDPR</S>
+      <S N="SessionId">39a925bc-2021-7379-e85ec5cc-4cd4490f817c</S>
+    </MS>
+  </Obj>
+  <Obj RefId="23">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="siteVersion">3.26.23</S>
+      <S N="timezone">UTC-8</S>
+      <S N="SessionId">39a925bc-2021-7379-e85ec5cc-4cd4490f817c</S>
+      <S N="logId">39a925bc-20211222T230234802</S>
+      <I64 N="ticks">1640214154802</I64>
+      <S N="url">http://localhost:1313/</S>
+      <S N="message">Loading: http://localhost:1313/</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/22/2021 11:02:34 PM</S>
+      <S N="caller">document.body</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">52a43fdd-7db7-936e-450862f0-84fd18bd3a87</S>
+      <I64 N="width">1184</I64>
+      <I64 N="height">1041</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="24">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="siteVersion">3.26.23</S>
+      <S N="timezone">UTC-8</S>
+      <S N="SessionId">39a925bc-2021-7379-e85ec5cc-4cd4490f817c</S>
+      <S N="logId">39a925bc-20211223T001344764</S>
+      <I64 N="ticks">1640218424764</I64>
+      <S N="url">http://localhost:1313/</S>
+      <S N="message">Loading: http://localhost:1313/</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/23/2021 12:13:44 AM</S>
+      <S N="caller">document.body</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">52a43fdd-7db7-936e-450862f0-84fd18bd3a87</S>
+      <I64 N="width">1184</I64>
+      <I64 N="height">1041</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="25">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="siteVersion">3.26.23</S>
+      <S N="timezone">UTC-8</S>
+      <S N="SessionId">39a925bc-2021-7379-e85ec5cc-4cd4490f817c</S>
+      <S N="logId">39a925bc-20211223T054529615</S>
+      <I64 N="ticks">1640238329615</I64>
+      <S N="url">http://localhost:1313/</S>
+      <S N="message">Loading: http://localhost:1313/</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/23/2021 5:45:29 AM</S>
+      <S N="caller">document.body</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">52a43fdd-7db7-936e-450862f0-84fd18bd3a87</S>
+      <I64 N="width">1773</I64>
+      <I64 N="height">1041</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="26">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="siteVersion">3.26.23</S>
+      <S N="timezone">UTC-8</S>
+      <S N="SessionId">39a925bc-2021-7379-e85ec5cc-4cd4490f817c</S>
+      <S N="logId">39a925bc-20211223T054713975</S>
+      <I64 N="ticks">1640238433975</I64>
+      <S N="url">http://localhost:1313/posts/projects/uncategorized/latestnews/</S>
+      <S N="message">Loading: http://localhost:1313/posts/projects/uncategorized/latestnews/</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/23/2021 5:47:13 AM</S>
+      <S N="caller">document.body</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">52a43fdd-7db7-936e-450862f0-84fd18bd3a87</S>
+      <I64 N="width">1773</I64>
+      <I64 N="height">1041</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="27">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="siteVersion">3.26.23</S>
+      <S N="timezone">UTC-8</S>
+      <S N="SessionId">39a925bc-2021-7379-e85ec5cc-4cd4490f817c</S>
+      <S N="logId">39a925bc-20211223T054720999</S>
+      <I64 N="ticks">1640238440999</I64>
+      <S N="url">http://localhost:1313/</S>
+      <S N="message">Loading: http://localhost:1313/</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/23/2021 5:47:20 AM</S>
+      <S N="caller">document.body</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">52a43fdd-7db7-936e-450862f0-84fd18bd3a87</S>
+      <I64 N="width">1773</I64>
+      <I64 N="height">1041</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="28">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="siteVersion">3.26.23</S>
+      <S N="timezone">UTC-8</S>
+      <S N="SessionId">39a925bc-2021-7379-e85ec5cc-4cd4490f817c</S>
+      <S N="logId">39a925bc-20211223T055039747</S>
+      <I64 N="ticks">1640238639747</I64>
+      <S N="url">http://localhost:1313/</S>
+      <S N="message">Loading: http://localhost:1313/</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/23/2021 5:50:39 AM</S>
+      <S N="caller">document.body</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">52a43fdd-7db7-936e-450862f0-84fd18bd3a87</S>
+      <I64 N="width">1184</I64>
+      <I64 N="height">1041</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="29">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="siteVersion">3.26.23</S>
+      <S N="timezone">UTC-8</S>
+      <S N="SessionId">5a5a451d-f46b-9794-87ef45de-174250a05229</S>
+      <S N="logId">5a5a451d-20211218T010154776</S>
+      <I64 N="ticks">1639789314776</I64>
+      <S N="url">https://staging.brewingcats.com/posts/site/linktree/</S>
+      <S N="message">Loading: https://staging.brewingcats.com/posts/site/linktree/</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/18/2021 1:01:54 AM</S>
+      <S N="caller">document.body</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">d6ea3387-eafa-027c-73ee1e4e-0e1610f13e2b</S>
+      <I64 N="width">1773</I64>
+      <I64 N="height">1041</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="30">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="client">BrewingCatsCore</S>
+      <S N="timestamp">12/18/2021 1:02:05 AM</S>
+      <I64 N="ticks">1639789325757</I64>
+      <S N="ClientId">d6ea3387-eafa-027c-73ee1e4e-0e1610f13e2b</S>
+      <S N="message">User accepted TOS</S>
+      <S N="tagId">tagId_2</S>
+      <S N="type">Info</S>
+      <S N="caller">gdpr.toast</S>
+      <S N="logId">5a5a451d-20211218T010205757</S>
+      <S N="indexId">202112</S>
+      <S N="category">GDPR</S>
+      <S N="SessionId">5a5a451d-f46b-9794-87ef45de-174250a05229</S>
+    </MS>
+  </Obj>
+  <Obj RefId="31">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="siteVersion">3.26.23</S>
+      <S N="timezone">UTC-8</S>
+      <S N="SessionId">5a5a451d-f46b-9794-87ef45de-174250a05229</S>
+      <S N="logId">5a5a451d-20211218T010343285</S>
+      <I64 N="ticks">1639789423285</I64>
+      <S N="url">https://staging.brewingcats.com/posts/site/linktree/</S>
+      <S N="message">Loading: https://staging.brewingcats.com/posts/site/linktree/</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/18/2021 1:03:43 AM</S>
+      <S N="caller">document.body</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">d6ea3387-eafa-027c-73ee1e4e-0e1610f13e2b</S>
+      <I64 N="width">1773</I64>
+      <I64 N="height">1041</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="32">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="siteVersion">3.26.23</S>
+      <S N="timezone">UTC-8</S>
+      <S N="SessionId">5a5a451d-f46b-9794-87ef45de-174250a05229</S>
+      <S N="logId">5a5a451d-20211223T054530187</S>
+      <I64 N="ticks">1640238330187</I64>
+      <S N="url">https://staging.brewingcats.com/posts/site/linktree/</S>
+      <S N="message">Loading: https://staging.brewingcats.com/posts/site/linktree/</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/23/2021 5:45:30 AM</S>
+      <S N="caller">document.body</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">d6ea3387-eafa-027c-73ee1e4e-0e1610f13e2b</S>
+      <I64 N="width">1773</I64>
+      <I64 N="height">1041</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="33">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1638572243934</I64>
+      <S N="SessionId">6ed26523-9c43-08d2-3dc6b15b-03d318cd17f5</S>
+      <S N="logId">6ed26523-20211203T225723934</S>
+      <S N="userAgent">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.71 Safari/537.36</S>
+      <S N="message">New user session</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/3/2021 10:57:23 PM</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">d2359f66-3bda-81b1-ef8c1366-82887540591c</S>
+      <S N="tagId">tagId_7</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="34">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="siteVersion">0.8.22</S>
+      <S N="timezone">UTC+0</S>
+      <S N="SessionId">6ed26523-9c43-08d2-3dc6b15b-03d318cd17f5</S>
+      <S N="logId">6ed26523-20211203T225723939</S>
+      <I64 N="ticks">1638572243939</I64>
+      <S N="url">https://staging.olainterpreting.com/</S>
+      <S N="message">Loading: https://staging.olainterpreting.com/</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/3/2021 10:57:23 PM</S>
+      <S N="caller">document.body</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">d2359f66-3bda-81b1-ef8c1366-82887540591c</S>
+      <I64 N="width">1600</I64>
+      <I64 N="height">1200</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="35">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1640582487271</I64>
+      <S N="SessionId">9710d968-535f-91ed-7d97a3bb-afa76cb9da15</S>
+      <S N="logId">9710d968-20211227T052127271</S>
+      <S N="userAgent">Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15</S>
+      <S N="message">New user session</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/27/2021 5:21:27 AM</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">93cc18b5-c2e1-cdbd-35cad9e2-b8726f583bf5</S>
+      <S N="tagId">tagId_7</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="36">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="siteVersion">3.26.23</S>
+      <S N="timezone">UTC-8</S>
+      <S N="SessionId">9710d968-535f-91ed-7d97a3bb-afa76cb9da15</S>
+      <S N="logId">9710d968-20211227T052127282</S>
+      <I64 N="ticks">1640582487282</I64>
+      <S N="url">https://staging.brewingcats.com/posts/projects/merchandise/nft/lottery/</S>
+      <S N="message">Loading: https://staging.brewingcats.com/posts/projects/merchandise/nft/lottery/</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/27/2021 5:21:27 AM</S>
+      <S N="caller">document.body</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">93cc18b5-c2e1-cdbd-35cad9e2-b8726f583bf5</S>
+      <I64 N="width">3360</I64>
+      <I64 N="height">1785</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="37">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="SessionId">9710d968-535f-91ed-7d97a3bb-afa76cb9da15</S>
+      <S N="logId">9710d968-20211227T052127284</S>
+      <S N="indexId">202112</S>
+      <I64 N="ticks">1640582487284</I64>
+      <S N="message">Carousel Component</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/27/2021 5:21:27 AM</S>
+      <S N="caller">component.carousel</S>
+      <S N="component">Carousel</S>
+      <S N="ClientId">93cc18b5-c2e1-cdbd-35cad9e2-b8726f583bf5</S>
+      <S N="tagId">tagId_e</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">ComponentSetup</S>
+    </MS>
+  </Obj>
+  <Obj RefId="38">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="SessionId">9710d968-535f-91ed-7d97a3bb-afa76cb9da15</S>
+      <S N="logId">9710d968-20211227T052127285</S>
+      <S N="indexId">202112</S>
+      <I64 N="ticks">1640582487285</I64>
+      <S N="message">Carousel Component</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/27/2021 5:21:27 AM</S>
+      <S N="caller">component.carousel</S>
+      <S N="component">Carousel</S>
+      <S N="ClientId">93cc18b5-c2e1-cdbd-35cad9e2-b8726f583bf5</S>
+      <S N="tagId">tagId_e</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">ComponentSetup</S>
+    </MS>
+  </Obj>
+  <Obj RefId="39">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="client">BrewingCatsCore</S>
+      <S N="timestamp">12/27/2021 5:21:38 AM</S>
+      <I64 N="ticks">1640582498544</I64>
+      <S N="ClientId">93cc18b5-c2e1-cdbd-35cad9e2-b8726f583bf5</S>
+      <S N="message">User accepted TOS</S>
+      <S N="tagId">tagId_2</S>
+      <S N="type">Info</S>
+      <S N="caller">gdpr.toast</S>
+      <S N="logId">9710d968-20211227T052138544</S>
+      <S N="indexId">202112</S>
+      <S N="category">GDPR</S>
+      <S N="SessionId">9710d968-535f-91ed-7d97a3bb-afa76cb9da15</S>
+    </MS>
+  </Obj>
+  <Obj RefId="40">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1640238926871</I64>
+      <S N="SessionId">bd2acdbb-073e-35f1-220ee9be-380e93fdcc4c</S>
+      <S N="logId">bd2acdbb-20211223T055526871</S>
+      <S N="userAgent">Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15</S>
+      <S N="message">New user session</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/23/2021 5:55:26 AM</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">93cc18b5-c2e1-cdbd-35cad9e2-b8726f583bf5</S>
+      <S N="tagId">tagId_7</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="41">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="siteVersion">3.26.23</S>
+      <S N="timezone">UTC-8</S>
+      <S N="SessionId">bd2acdbb-073e-35f1-220ee9be-380e93fdcc4c</S>
+      <S N="logId">bd2acdbb-20211223T055526876</S>
+      <I64 N="ticks">1640238926876</I64>
+      <S N="url">https://staging.brewingcats.com/</S>
+      <S N="message">Loading: https://staging.brewingcats.com/</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/23/2021 5:55:26 AM</S>
+      <S N="caller">document.body</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">93cc18b5-c2e1-cdbd-35cad9e2-b8726f583bf5</S>
+      <I64 N="width">1920</I64>
+      <I64 N="height">1045</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="42">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="client">BrewingCatsCore</S>
+      <S N="timestamp">12/23/2021 5:56:11 AM</S>
+      <I64 N="ticks">1640238971687</I64>
+      <S N="ClientId">93cc18b5-c2e1-cdbd-35cad9e2-b8726f583bf5</S>
+      <S N="message">User accepted TOS</S>
+      <S N="tagId">tagId_2</S>
+      <S N="type">Info</S>
+      <S N="caller">gdpr.toast</S>
+      <S N="logId">bd2acdbb-20211223T055611687</S>
+      <S N="indexId">202112</S>
+      <S N="category">GDPR</S>
+      <S N="SessionId">bd2acdbb-073e-35f1-220ee9be-380e93fdcc4c</S>
+    </MS>
+  </Obj>
+  <Obj RefId="43">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="siteVersion">3.26.23</S>
+      <S N="timezone">UTC-8</S>
+      <S N="SessionId">bd2acdbb-073e-35f1-220ee9be-380e93fdcc4c</S>
+      <S N="logId">bd2acdbb-20211223T055615198</S>
+      <I64 N="ticks">1640238975198</I64>
+      <S N="url">https://staging.brewingcats.com/posts/projects/merchandise/nft/lottery/</S>
+      <S N="message">Loading: https://staging.brewingcats.com/posts/projects/merchandise/nft/lottery/</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/23/2021 5:56:15 AM</S>
+      <S N="caller">document.body</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">93cc18b5-c2e1-cdbd-35cad9e2-b8726f583bf5</S>
+      <I64 N="width">1920</I64>
+      <I64 N="height">1045</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="44">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="SessionId">bd2acdbb-073e-35f1-220ee9be-380e93fdcc4c</S>
+      <S N="logId">bd2acdbb-20211223T055615246</S>
+      <S N="indexId">202112</S>
+      <I64 N="ticks">1640238975246</I64>
+      <S N="message">Carousel Component</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/23/2021 5:56:15 AM</S>
+      <S N="caller">component.carousel</S>
+      <S N="component">Carousel</S>
+      <S N="ClientId">93cc18b5-c2e1-cdbd-35cad9e2-b8726f583bf5</S>
+      <S N="tagId">tagId_e</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">ComponentSetup</S>
+    </MS>
+  </Obj>
+  <Obj RefId="45">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="SessionId">bd2acdbb-073e-35f1-220ee9be-380e93fdcc4c</S>
+      <S N="logId">bd2acdbb-20211223T055615247</S>
+      <S N="indexId">202112</S>
+      <I64 N="ticks">1640238975247</I64>
+      <S N="message">Carousel Component</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/23/2021 5:56:15 AM</S>
+      <S N="caller">component.carousel</S>
+      <S N="component">Carousel</S>
+      <S N="ClientId">93cc18b5-c2e1-cdbd-35cad9e2-b8726f583bf5</S>
+      <S N="tagId">tagId_e</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">ComponentSetup</S>
+    </MS>
+  </Obj>
+  <Obj RefId="46">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1638406723521</I64>
+      <S N="SessionId">dcde99b6-c716-a96b-ef8d32c7-55c3593d50b6</S>
+      <S N="logId">dcde99b6-20211202T005843521</S>
+      <S N="userAgent">Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15</S>
+      <S N="message">New user session</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/2/2021 12:58:43 AM</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">cf644fd0-c59c-0466-2b215bab-4eee214a3a53</S>
+      <S N="tagId">tagId_7</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="47">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="siteVersion">3.26.23</S>
+      <S N="timezone">UTC-8</S>
+      <S N="SessionId">dcde99b6-c716-a96b-ef8d32c7-55c3593d50b6</S>
+      <S N="logId">dcde99b6-20211202T005843527</S>
+      <I64 N="ticks">1638406723527</I64>
+      <S N="url">https://staging.brewingcats.com/</S>
+      <S N="message">Loading: https://staging.brewingcats.com/</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/2/2021 12:58:43 AM</S>
+      <S N="caller">document.body</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">cf644fd0-c59c-0466-2b215bab-4eee214a3a53</S>
+      <I64 N="width">1194</I64>
+      <I64 N="height">727</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="48">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="client">BrewingCatsCore</S>
+      <S N="timestamp">12/2/2021 12:58:46 AM</S>
+      <I64 N="ticks">1638406726550</I64>
+      <S N="ClientId">cf644fd0-c59c-0466-2b215bab-4eee214a3a53</S>
+      <S N="message">User accepted TOS</S>
+      <S N="tagId">tagId_2</S>
+      <S N="type">Info</S>
+      <S N="caller">gdpr.toast</S>
+      <S N="logId">dcde99b6-20211202T005846550</S>
+      <S N="indexId">202112</S>
+      <S N="category">GDPR</S>
+      <S N="SessionId">dcde99b6-c716-a96b-ef8d32c7-55c3593d50b6</S>
+    </MS>
+  </Obj>
+  <Obj RefId="49">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="siteVersion">3.26.23</S>
+      <S N="timezone">UTC-8</S>
+      <S N="SessionId">dcde99b6-c716-a96b-ef8d32c7-55c3593d50b6</S>
+      <S N="logId">dcde99b6-20211202T005851520</S>
+      <I64 N="ticks">1638406731520</I64>
+      <S N="url">https://staging.brewingcats.com/posts/projects/uncategorized/latestnews/</S>
+      <S N="message">Loading: https://staging.brewingcats.com/posts/projects/uncategorized/latestnews/</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/2/2021 12:58:51 AM</S>
+      <S N="caller">document.body</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">cf644fd0-c59c-0466-2b215bab-4eee214a3a53</S>
+      <I64 N="width">1194</I64>
+      <I64 N="height">727</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="50">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="siteVersion">3.26.23</S>
+      <S N="timezone">UTC-8</S>
+      <S N="SessionId">dcde99b6-c716-a96b-ef8d32c7-55c3593d50b6</S>
+      <S N="logId">dcde99b6-20211202T005856252</S>
+      <I64 N="ticks">1638406736252</I64>
+      <S N="url">https://staging.brewingcats.com/</S>
+      <S N="message">Loading: https://staging.brewingcats.com/</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/2/2021 12:58:56 AM</S>
+      <S N="caller">document.body</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">cf644fd0-c59c-0466-2b215bab-4eee214a3a53</S>
+      <I64 N="width">1194</I64>
+      <I64 N="height">727</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="51">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="siteVersion">3.26.23</S>
+      <S N="timezone">UTC-8</S>
+      <S N="SessionId">eac11135-a426-3f69-f8395de9-37bad77dd20b</S>
+      <S N="logId">eac11135-20211214T063912327</S>
+      <I64 N="ticks">1639463952327</I64>
+      <S N="url">https://staging.brewingcats.com/posts/projects/graficos/</S>
+      <S N="message">Loading: https://staging.brewingcats.com/posts/projects/graficos/</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/14/2021 6:39:12 AM</S>
+      <S N="caller">document.body</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">d6ea3387-eafa-027c-73ee1e4e-0e1610f13e2b</S>
+      <I64 N="width">1773</I64>
+      <I64 N="height">1041</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="52">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="siteVersion">3.26.23</S>
+      <S N="timezone">UTC-8</S>
+      <S N="SessionId">eac11135-a426-3f69-f8395de9-37bad77dd20b</S>
+      <S N="logId">eac11135-20211214T063916395</S>
+      <I64 N="ticks">1639463956395</I64>
+      <S N="url">https://staging.brewingcats.com/</S>
+      <S N="message">Loading: https://staging.brewingcats.com/</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/14/2021 6:39:16 AM</S>
+      <S N="caller">document.body</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">d6ea3387-eafa-027c-73ee1e4e-0e1610f13e2b</S>
+      <I64 N="width">1773</I64>
+      <I64 N="height">1041</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="53">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="client">BrewingCatsCore</S>
+      <S N="timestamp">12/14/2021 6:39:19 AM</S>
+      <I64 N="ticks">1639463959353</I64>
+      <S N="ClientId">d6ea3387-eafa-027c-73ee1e4e-0e1610f13e2b</S>
+      <S N="message">User accepted TOS</S>
+      <S N="tagId">tagId_2</S>
+      <S N="type">Info</S>
+      <S N="caller">gdpr.toast</S>
+      <S N="logId">eac11135-20211214T063919353</S>
+      <S N="indexId">202112</S>
+      <S N="category">GDPR</S>
+      <S N="SessionId">eac11135-a426-3f69-f8395de9-37bad77dd20b</S>
+    </MS>
+  </Obj>
+  <Obj RefId="54">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="siteVersion">3.26.23</S>
+      <S N="timezone">UTC-8</S>
+      <S N="SessionId">eac11135-a426-3f69-f8395de9-37bad77dd20b</S>
+      <S N="logId">eac11135-20211223T054737234</S>
+      <I64 N="ticks">1640238457234</I64>
+      <S N="url">https://staging.brewingcats.com/</S>
+      <S N="message">Loading: https://staging.brewingcats.com/</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/23/2021 5:47:37 AM</S>
+      <S N="caller">document.body</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">d6ea3387-eafa-027c-73ee1e4e-0e1610f13e2b</S>
+      <I64 N="width">1773</I64>
+      <I64 N="height">1041</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="55">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="client">BrewingCatsCore</S>
+      <S N="timestamp">12/23/2021 5:47:39 AM</S>
+      <I64 N="ticks">1640238459442</I64>
+      <S N="ClientId">d6ea3387-eafa-027c-73ee1e4e-0e1610f13e2b</S>
+      <S N="message">User accepted TOS</S>
+      <S N="tagId">tagId_2</S>
+      <S N="type">Info</S>
+      <S N="caller">gdpr.toast</S>
+      <S N="logId">eac11135-20211223T054739442</S>
+      <S N="indexId">202112</S>
+      <S N="category">GDPR</S>
+      <S N="SessionId">eac11135-a426-3f69-f8395de9-37bad77dd20b</S>
+    </MS>
+  </Obj>
+  <Obj RefId="56">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="siteVersion">3.26.23</S>
+      <S N="timezone">UTC-8</S>
+      <S N="SessionId">eac11135-a426-3f69-f8395de9-37bad77dd20b</S>
+      <S N="logId">eac11135-20211223T054740731</S>
+      <I64 N="ticks">1640238460731</I64>
+      <S N="url">https://staging.brewingcats.com/posts/projects/uncategorized/latestnews/</S>
+      <S N="message">Loading: https://staging.brewingcats.com/posts/projects/uncategorized/latestnews/</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/23/2021 5:47:40 AM</S>
+      <S N="caller">document.body</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">d6ea3387-eafa-027c-73ee1e4e-0e1610f13e2b</S>
+      <I64 N="width">1773</I64>
+      <I64 N="height">1041</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="57">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="siteVersion">3.26.23</S>
+      <S N="timezone">UTC-8</S>
+      <S N="SessionId">eac11135-a426-3f69-f8395de9-37bad77dd20b</S>
+      <S N="logId">eac11135-20211223T054745499</S>
+      <I64 N="ticks">1640238465499</I64>
+      <S N="url">https://staging.brewingcats.com/</S>
+      <S N="message">Loading: https://staging.brewingcats.com/</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/23/2021 5:47:45 AM</S>
+      <S N="caller">document.body</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">d6ea3387-eafa-027c-73ee1e4e-0e1610f13e2b</S>
+      <I64 N="width">1773</I64>
+      <I64 N="height">1041</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="58">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="siteVersion">3.26.23</S>
+      <S N="timezone">UTC-8</S>
+      <S N="SessionId">eac11135-a426-3f69-f8395de9-37bad77dd20b</S>
+      <S N="logId">eac11135-20211229T010110794</S>
+      <I64 N="ticks">1640739670794</I64>
+      <S N="url">https://staging.brewingcats.com/posts/projects/</S>
+      <S N="message">Loading: https://staging.brewingcats.com/posts/projects/</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/29/2021 1:01:10 AM</S>
+      <S N="caller">document.body</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">d6ea3387-eafa-027c-73ee1e4e-0e1610f13e2b</S>
+      <I64 N="width">1773</I64>
+      <I64 N="height">1041</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="59">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="siteVersion">3.26.23</S>
+      <S N="timezone">UTC-8</S>
+      <S N="SessionId">eac11135-a426-3f69-f8395de9-37bad77dd20b</S>
+      <S N="logId">eac11135-20211229T010113787</S>
+      <I64 N="ticks">1640739673787</I64>
+      <S N="url">https://staging.brewingcats.com/posts/projects/nenaandleo/</S>
+      <S N="message">Loading: https://staging.brewingcats.com/posts/projects/nenaandleo/</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/29/2021 1:01:13 AM</S>
+      <S N="caller">document.body</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">d6ea3387-eafa-027c-73ee1e4e-0e1610f13e2b</S>
+      <I64 N="width">1773</I64>
+      <I64 N="height">1041</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="60">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="SessionId">eac11135-a426-3f69-f8395de9-37bad77dd20b</S>
+      <S N="logId">eac11135-20211229T010113796</S>
+      <S N="indexId">202112</S>
+      <I64 N="ticks">1640739673796</I64>
+      <S N="message">AutoInstagram Component</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/29/2021 1:01:13 AM</S>
+      <S N="caller">component.autoinstagram</S>
+      <S N="component">AutoInstagram</S>
+      <S N="ClientId">d6ea3387-eafa-027c-73ee1e4e-0e1610f13e2b</S>
+      <S N="tagId">tagId_a</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">ComponentSetup</S>
+    </MS>
+  </Obj>
+  <Obj RefId="61">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="SessionId">eac11135-a426-3f69-f8395de9-37bad77dd20b</S>
+      <S N="logId">eac11135-20211229T010113798</S>
+      <S N="indexId">202112</S>
+      <I64 N="ticks">1640739673798</I64>
+      <S N="message">AutoInstagram Component</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/29/2021 1:01:13 AM</S>
+      <S N="caller">component.autoinstagram</S>
+      <S N="component">AutoInstagram</S>
+      <S N="ClientId">d6ea3387-eafa-027c-73ee1e4e-0e1610f13e2b</S>
+      <S N="tagId">tagId_a</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">ComponentSetup</S>
+    </MS>
+  </Obj>
+  <Obj RefId="62">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="siteVersion">3.26.23</S>
+      <S N="timezone">UTC-8</S>
+      <S N="SessionId">eac11135-a426-3f69-f8395de9-37bad77dd20b</S>
+      <S N="logId">eac11135-20211229T010118572</S>
+      <I64 N="ticks">1640739678572</I64>
+      <S N="url">https://staging.brewingcats.com/posts/projects/</S>
+      <S N="message">Loading: https://staging.brewingcats.com/posts/projects/</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/29/2021 1:01:18 AM</S>
+      <S N="caller">document.body</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">d6ea3387-eafa-027c-73ee1e4e-0e1610f13e2b</S>
+      <I64 N="width">1773</I64>
+      <I64 N="height">1041</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="63">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="client">BrewingCatsCore</S>
+      <S N="timestamp">12/29/2021 1:03:27 AM</S>
+      <I64 N="ticks">1640739807629</I64>
+      <S N="ClientId">d6ea3387-eafa-027c-73ee1e4e-0e1610f13e2b</S>
+      <S N="message">User accepted TOS</S>
+      <S N="tagId">tagId_2</S>
+      <S N="type">Info</S>
+      <S N="caller">gdpr.toast</S>
+      <S N="logId">eac11135-20211229T010327629</S>
+      <S N="indexId">202112</S>
+      <S N="category">GDPR</S>
+      <S N="SessionId">eac11135-a426-3f69-f8395de9-37bad77dd20b</S>
+    </MS>
+  </Obj>
+  <Obj RefId="64">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="siteVersion">3.26.25</S>
+      <S N="timezone">UTC-8</S>
+      <S N="SessionId">eac11135-a426-3f69-f8395de9-37bad77dd20b</S>
+      <S N="logId">eac11135-20211229T070822388</S>
+      <I64 N="ticks">1640761702388</I64>
+      <S N="url">https://staging.brewingcats.com/</S>
+      <S N="message">Loading: https://staging.brewingcats.com/</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/29/2021 7:08:22 AM</S>
+      <S N="caller">document.body</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">d6ea3387-eafa-027c-73ee1e4e-0e1610f13e2b</S>
+      <I64 N="width">1773</I64>
+      <I64 N="height">1041</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="65">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="siteVersion">3.26.25</S>
+      <S N="timezone">UTC-8</S>
+      <S N="SessionId">eac11135-a426-3f69-f8395de9-37bad77dd20b</S>
+      <S N="logId">eac11135-20211229T070832094</S>
+      <I64 N="ticks">1640761712094</I64>
+      <S N="url">https://staging.brewingcats.com/posts/site/policy/</S>
+      <S N="message">Loading: https://staging.brewingcats.com/posts/site/policy/</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/29/2021 7:08:32 AM</S>
+      <S N="caller">document.body</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">d6ea3387-eafa-027c-73ee1e4e-0e1610f13e2b</S>
+      <I64 N="width">1773</I64>
+      <I64 N="height">1041</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="66">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="siteVersion">3.26.25</S>
+      <S N="timezone">UTC-8</S>
+      <S N="SessionId">eac11135-a426-3f69-f8395de9-37bad77dd20b</S>
+      <S N="logId">eac11135-20211229T070836908</S>
+      <I64 N="ticks">1640761716908</I64>
+      <S N="url">https://staging.brewingcats.com/</S>
+      <S N="message">Loading: https://staging.brewingcats.com/</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/29/2021 7:08:36 AM</S>
+      <S N="caller">document.body</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">d6ea3387-eafa-027c-73ee1e4e-0e1610f13e2b</S>
+      <I64 N="width">1773</I64>
+      <I64 N="height">1041</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="67">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="siteVersion">3.26.25</S>
+      <S N="timezone">UTC-8</S>
+      <S N="SessionId">eac11135-a426-3f69-f8395de9-37bad77dd20b</S>
+      <S N="logId">eac11135-20211229T070838524</S>
+      <I64 N="ticks">1640761718524</I64>
+      <S N="url">https://staging.brewingcats.com/posts/projects/uncategorized/latestnews/</S>
+      <S N="message">Loading: https://staging.brewingcats.com/posts/projects/uncategorized/latestnews/</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/29/2021 7:08:38 AM</S>
+      <S N="caller">document.body</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">d6ea3387-eafa-027c-73ee1e4e-0e1610f13e2b</S>
+      <I64 N="width">1773</I64>
+      <I64 N="height">1041</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="68">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="siteVersion">3.26.25</S>
+      <S N="timezone">UTC-8</S>
+      <S N="SessionId">eac11135-a426-3f69-f8395de9-37bad77dd20b</S>
+      <S N="logId">eac11135-20211229T070841608</S>
+      <I64 N="ticks">1640761721608</I64>
+      <S N="url">https://staging.brewingcats.com/</S>
+      <S N="message">Loading: https://staging.brewingcats.com/</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/29/2021 7:08:41 AM</S>
+      <S N="caller">document.body</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">d6ea3387-eafa-027c-73ee1e4e-0e1610f13e2b</S>
+      <I64 N="width">1773</I64>
+      <I64 N="height">1041</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="69">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="siteVersion">3.26.25</S>
+      <S N="timezone">UTC-8</S>
+      <S N="SessionId">eac11135-a426-3f69-f8395de9-37bad77dd20b</S>
+      <S N="logId">eac11135-20211229T070843218</S>
+      <I64 N="ticks">1640761723218</I64>
+      <S N="url">https://staging.brewingcats.com/posts/site/linktree/</S>
+      <S N="message">Loading: https://staging.brewingcats.com/posts/site/linktree/</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/29/2021 7:08:43 AM</S>
+      <S N="caller">document.body</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">d6ea3387-eafa-027c-73ee1e4e-0e1610f13e2b</S>
+      <I64 N="width">1773</I64>
+      <I64 N="height">1041</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="70">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="siteVersion">3.26.25</S>
+      <S N="timezone">UTC-8</S>
+      <S N="SessionId">eac11135-a426-3f69-f8395de9-37bad77dd20b</S>
+      <S N="logId">eac11135-20211229T070848204</S>
+      <I64 N="ticks">1640761728204</I64>
+      <S N="url">https://staging.brewingcats.com/</S>
+      <S N="message">Loading: https://staging.brewingcats.com/</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/29/2021 7:08:48 AM</S>
+      <S N="caller">document.body</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">d6ea3387-eafa-027c-73ee1e4e-0e1610f13e2b</S>
+      <I64 N="width">1773</I64>
+      <I64 N="height">1041</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="71">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="siteVersion">3.26.25</S>
+      <S N="timezone">UTC-8</S>
+      <S N="SessionId">eac11135-a426-3f69-f8395de9-37bad77dd20b</S>
+      <S N="logId">eac11135-20211229T070856177</S>
+      <I64 N="ticks">1640761736177</I64>
+      <S N="url">https://staging.brewingcats.com/posts/projects/</S>
+      <S N="message">Loading: https://staging.brewingcats.com/posts/projects/</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/29/2021 7:08:56 AM</S>
+      <S N="caller">document.body</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">d6ea3387-eafa-027c-73ee1e4e-0e1610f13e2b</S>
+      <I64 N="width">1773</I64>
+      <I64 N="height">1041</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="72">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="siteVersion">3.26.25</S>
+      <S N="timezone">UTC-8</S>
+      <S N="SessionId">eac11135-a426-3f69-f8395de9-37bad77dd20b</S>
+      <S N="logId">eac11135-20211229T070858555</S>
+      <I64 N="ticks">1640761738555</I64>
+      <S N="url">https://staging.brewingcats.com/posts/projects/graficos/</S>
+      <S N="message">Loading: https://staging.brewingcats.com/posts/projects/graficos/</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/29/2021 7:08:58 AM</S>
+      <S N="caller">document.body</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">d6ea3387-eafa-027c-73ee1e4e-0e1610f13e2b</S>
+      <I64 N="width">1773</I64>
+      <I64 N="height">1041</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="73">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="siteVersion">3.26.25</S>
+      <S N="timezone">UTC-8</S>
+      <S N="SessionId">eac11135-a426-3f69-f8395de9-37bad77dd20b</S>
+      <S N="logId">eac11135-20211229T071025835</S>
+      <I64 N="ticks">1640761825835</I64>
+      <S N="url">https://staging.brewingcats.com/</S>
+      <S N="message">Loading: https://staging.brewingcats.com/</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/29/2021 7:10:25 AM</S>
+      <S N="caller">document.body</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">d6ea3387-eafa-027c-73ee1e4e-0e1610f13e2b</S>
+      <I64 N="width">1773</I64>
+      <I64 N="height">1041</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="74">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1638852699633</I64>
+      <S N="SessionId">eb00076d-d548-9d91-54eee9f5-e37f33765d5e</S>
+      <S N="logId">eb00076d-20211207T045139633</S>
+      <S N="userAgent">Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43</S>
+      <S N="message">New user session</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/7/2021 4:51:39 AM</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">52a43fdd-7db7-936e-450862f0-84fd18bd3a87</S>
+      <S N="tagId">tagId_7</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="75">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="siteVersion">3.26.23</S>
+      <S N="timezone">UTC-8</S>
+      <S N="SessionId">eb00076d-d548-9d91-54eee9f5-e37f33765d5e</S>
+      <S N="logId">eb00076d-20211207T045139639</S>
+      <I64 N="ticks">1638852699639</I64>
+      <S N="url">http://localhost:1313/posts/projects/graficos/menu/</S>
+      <S N="message">Loading: http://localhost:1313/posts/projects/graficos/menu/</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/7/2021 4:51:39 AM</S>
+      <S N="caller">document.body</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">52a43fdd-7db7-936e-450862f0-84fd18bd3a87</S>
+      <I64 N="width">1773</I64>
+      <I64 N="height">1041</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="76">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="ticks">1640109916102</I64>
+      <S N="SessionId">f05b3d57-e183-ed23-f1817913-3f573c3cfc8a</S>
+      <S N="logId">f05b3d57-20211221T180516102</S>
+      <S N="userAgent">Mozilla/5.0 (iPhone; CPU iPhone OS 15_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/189.0.413529291 Mobile/15E148 Safari/604.1</S>
+      <S N="message">New user session</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/21/2021 6:05:16 PM</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">4e7218ac-d026-30d1-6fca13e8-5a42294e2566</S>
+      <S N="tagId">tagId_7</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="77">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="siteVersion">3.26.23</S>
+      <S N="timezone">UTC-6</S>
+      <S N="SessionId">f05b3d57-e183-ed23-f1817913-3f573c3cfc8a</S>
+      <S N="logId">f05b3d57-20211221T180516116</S>
+      <I64 N="ticks">1640109916116</I64>
+      <S N="url">https://staging.brewingcats.com/es/posts/projects/merchandise/nft/lottery/</S>
+      <S N="message">Loading: https://staging.brewingcats.com/es/posts/projects/merchandise/nft/lottery/</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/21/2021 6:05:16 PM</S>
+      <S N="caller">document.body</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">4e7218ac-d026-30d1-6fca13e8-5a42294e2566</S>
+      <I64 N="width">390</I64>
+      <I64 N="height">633</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">Bootstrap</S>
+    </MS>
+  </Obj>
+  <Obj RefId="78">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="SessionId">f05b3d57-e183-ed23-f1817913-3f573c3cfc8a</S>
+      <S N="logId">f05b3d57-20211221T180516119</S>
+      <S N="indexId">202112</S>
+      <I64 N="ticks">1640109916119</I64>
+      <S N="message">Carousel Component</S>
+      <S N="type">Info</S>
+      <S N="timestamp">12/21/2021 6:05:16 PM</S>
+      <S N="caller">component.carousel</S>
+      <S N="component">Carousel</S>
+      <S N="ClientId">4e7218ac-d026-30d1-6fca13e8-5a42294e2566</S>
+      <S N="tagId">tagId_e</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="category">ComponentSetup</S>
+    </MS>
+  </Obj>
+  <Obj RefId="79">
+    <TN RefId="1">
+      <T>System.Management.Automation.PSCustomObject</T>
+      <T>System.Object</T>
+    </TN>
+    <MS>
+      <S N="message">New user session</S>
+      <S N="indexId">202112</S>
+      <S N="type">Info</S>
+      <I64 N="ticks">1640852140537</I64>
+      <S N="userAgent">Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Mobile/15E148 Safari/604.1</S>
+      <S N="tagId">tagId_7</S>
+      <S N="SessionId">04efa699-ae65-9c22-0bf9a581-4f9a1caee8f5</S>
+      <S N="logId">04efa699-20211230T081540537</S>
+      <S N="category">Bootstrap</S>
+      <S N="timestamp">12/30/2021 8:15:40 AM</S>
+      <S N="ClientId">1b48d12e-6ce5-46bd-c88fcce2-b2963e1dafd7</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="client">BrewingCatsCore</S>
+    </MS>
+  </Obj>
+  <Obj RefId="80">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="message">Loading: https://staging.brewingcats.com/</S>
+      <S N="indexId">202112</S>
+      <S N="type">Info</S>
+      <I64 N="width">428</I64>
+      <I64 N="ticks">1640852140546</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="SessionId">04efa699-ae65-9c22-0bf9a581-4f9a1caee8f5</S>
+      <I64 N="height">746</I64>
+      <S N="logId">04efa699-20211230T081540546</S>
+      <S N="siteVersion">3.26.25</S>
+      <S N="category">Bootstrap</S>
+      <S N="timestamp">12/30/2021 8:15:40 AM</S>
+      <S N="ClientId">1b48d12e-6ce5-46bd-c88fcce2-b2963e1dafd7</S>
+      <S N="caller">document.body</S>
+      <S N="url">https://staging.brewingcats.com/</S>
+      <S N="timezone">UTC-8</S>
+      <S N="client">BrewingCatsCore</S>
+    </MS>
+  </Obj>
+  <Obj RefId="81">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="SessionId">04efa699-ae65-9c22-0bf9a581-4f9a1caee8f5</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="type">Info</S>
+      <S N="message">User accepted TOS</S>
+      <I64 N="ticks">1640852143261</I64>
+      <S N="tagId">tagId_2</S>
+      <S N="category">GDPR</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">1b48d12e-6ce5-46bd-c88fcce2-b2963e1dafd7</S>
+      <S N="timestamp">12/30/2021 8:15:43 AM</S>
+      <S N="logId">04efa699-20211230T081543261</S>
+      <S N="caller">gdpr.toast</S>
+    </MS>
+  </Obj>
+  <Obj RefId="82">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="message">Loading: https://staging.brewingcats.com/posts/site/about/</S>
+      <S N="indexId">202112</S>
+      <S N="type">Info</S>
+      <I64 N="width">428</I64>
+      <I64 N="ticks">1640852217328</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="SessionId">04efa699-ae65-9c22-0bf9a581-4f9a1caee8f5</S>
+      <I64 N="height">746</I64>
+      <S N="logId">04efa699-20211230T081657328</S>
+      <S N="siteVersion">3.26.25</S>
+      <S N="category">Bootstrap</S>
+      <S N="timestamp">12/30/2021 8:16:57 AM</S>
+      <S N="ClientId">1b48d12e-6ce5-46bd-c88fcce2-b2963e1dafd7</S>
+      <S N="caller">document.body</S>
+      <S N="url">https://staging.brewingcats.com/posts/site/about/</S>
+      <S N="timezone">UTC-8</S>
+      <S N="client">BrewingCatsCore</S>
+    </MS>
+  </Obj>
+  <Obj RefId="83">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="message">Loading: https://staging.brewingcats.com/posts/site/policy/</S>
+      <S N="indexId">202112</S>
+      <S N="type">Info</S>
+      <I64 N="width">428</I64>
+      <I64 N="ticks">1640852233835</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="SessionId">04efa699-ae65-9c22-0bf9a581-4f9a1caee8f5</S>
+      <I64 N="height">746</I64>
+      <S N="logId">04efa699-20211230T081713835</S>
+      <S N="siteVersion">3.26.25</S>
+      <S N="category">Bootstrap</S>
+      <S N="timestamp">12/30/2021 8:17:13 AM</S>
+      <S N="ClientId">1b48d12e-6ce5-46bd-c88fcce2-b2963e1dafd7</S>
+      <S N="caller">document.body</S>
+      <S N="url">https://staging.brewingcats.com/posts/site/policy/</S>
+      <S N="timezone">UTC-8</S>
+      <S N="client">BrewingCatsCore</S>
+    </MS>
+  </Obj>
+  <Obj RefId="84">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="message">Loading: https://staging.brewingcats.com/posts/projects/consulting/</S>
+      <S N="indexId">202112</S>
+      <S N="type">Info</S>
+      <I64 N="width">428</I64>
+      <I64 N="ticks">1640852244063</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="SessionId">04efa699-ae65-9c22-0bf9a581-4f9a1caee8f5</S>
+      <I64 N="height">746</I64>
+      <S N="logId">04efa699-20211230T081724063</S>
+      <S N="siteVersion">3.26.25</S>
+      <S N="category">Bootstrap</S>
+      <S N="timestamp">12/30/2021 8:17:24 AM</S>
+      <S N="ClientId">1b48d12e-6ce5-46bd-c88fcce2-b2963e1dafd7</S>
+      <S N="caller">document.body</S>
+      <S N="url">https://staging.brewingcats.com/posts/projects/consulting/</S>
+      <S N="timezone">UTC-8</S>
+      <S N="client">BrewingCatsCore</S>
+    </MS>
+  </Obj>
+  <Obj RefId="85">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="message">Loading: https://staging.brewingcats.com/posts/projects/software/new-jam-stack/</S>
+      <S N="indexId">202112</S>
+      <S N="type">Info</S>
+      <I64 N="width">428</I64>
+      <I64 N="ticks">1640852255948</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="SessionId">04efa699-ae65-9c22-0bf9a581-4f9a1caee8f5</S>
+      <I64 N="height">746</I64>
+      <S N="logId">04efa699-20211230T081735948</S>
+      <S N="siteVersion">3.26.25</S>
+      <S N="category">Bootstrap</S>
+      <S N="timestamp">12/30/2021 8:17:35 AM</S>
+      <S N="ClientId">1b48d12e-6ce5-46bd-c88fcce2-b2963e1dafd7</S>
+      <S N="caller">document.body</S>
+      <S N="url">https://staging.brewingcats.com/posts/projects/software/new-jam-stack/</S>
+      <S N="timezone">UTC-8</S>
+      <S N="client">BrewingCatsCore</S>
+    </MS>
+  </Obj>
+  <Obj RefId="86">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="message">Loading: https://staging.brewingcats.com/posts/site/changelog/</S>
+      <S N="indexId">202112</S>
+      <S N="type">Info</S>
+      <I64 N="width">428</I64>
+      <I64 N="ticks">1640852265642</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="SessionId">04efa699-ae65-9c22-0bf9a581-4f9a1caee8f5</S>
+      <I64 N="height">746</I64>
+      <S N="logId">04efa699-20211230T081745642</S>
+      <S N="siteVersion">3.26.25</S>
+      <S N="category">Bootstrap</S>
+      <S N="timestamp">12/30/2021 8:17:45 AM</S>
+      <S N="ClientId">1b48d12e-6ce5-46bd-c88fcce2-b2963e1dafd7</S>
+      <S N="caller">document.body</S>
+      <S N="url">https://staging.brewingcats.com/posts/site/changelog/</S>
+      <S N="timezone">UTC-8</S>
+      <S N="client">BrewingCatsCore</S>
+    </MS>
+  </Obj>
+  <Obj RefId="87">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="message">AirTable Component</S>
+      <S N="indexId">202112</S>
+      <S N="type">Info</S>
+      <I64 N="ticks">1640852265645</I64>
+      <S N="component">AirTable</S>
+      <S N="tableId">shrWQhQXmYlzI3bdF</S>
+      <S N="tagId">tagId_10</S>
+      <S N="SessionId">04efa699-ae65-9c22-0bf9a581-4f9a1caee8f5</S>
+      <S N="logId">04efa699-20211230T081745645</S>
+      <S N="category">ComponentSetup</S>
+      <S N="timestamp">12/30/2021 8:17:45 AM</S>
+      <S N="ClientId">1b48d12e-6ce5-46bd-c88fcce2-b2963e1dafd7</S>
+      <S N="caller">component.airtable</S>
+      <S N="client">BrewingCatsCore</S>
+    </MS>
+  </Obj>
+  <Obj RefId="88">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="message">New user session</S>
+      <S N="indexId">202112</S>
+      <S N="type">Info</S>
+      <I64 N="ticks">1640929843824</I64>
+      <S N="userAgent">Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15</S>
+      <S N="tagId">tagId_7</S>
+      <S N="SessionId">0e98ebe2-1ce1-8c25-7ae5b9f9-bfdeea8d9c42</S>
+      <S N="logId">0e98ebe2-20211231T055043824</S>
+      <S N="category">Bootstrap</S>
+      <S N="timestamp">12/31/2021 5:50:43 AM</S>
+      <S N="ClientId">ba626fc8-6505-b6be-6cd4acaa-0aa40c6aa188</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="client">BrewingCatsCore</S>
+    </MS>
+  </Obj>
+  <Obj RefId="89">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="message">Loading: https://staging.olainterpreting.com/</S>
+      <S N="indexId">202112</S>
+      <S N="type">Info</S>
+      <I64 N="width">1918</I64>
+      <I64 N="ticks">1640929843831</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="SessionId">0e98ebe2-1ce1-8c25-7ae5b9f9-bfdeea8d9c42</S>
+      <I64 N="height">1045</I64>
+      <S N="logId">0e98ebe2-20211231T055043831</S>
+      <S N="siteVersion">1.0.25</S>
+      <S N="category">Bootstrap</S>
+      <S N="timestamp">12/31/2021 5:50:43 AM</S>
+      <S N="ClientId">ba626fc8-6505-b6be-6cd4acaa-0aa40c6aa188</S>
+      <S N="caller">document.body</S>
+      <S N="url">https://staging.olainterpreting.com/</S>
+      <S N="timezone">UTC-8</S>
+      <S N="client">BrewingCatsCore</S>
+    </MS>
+  </Obj>
+  <Obj RefId="90">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="SessionId">0e98ebe2-1ce1-8c25-7ae5b9f9-bfdeea8d9c42</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="type">Info</S>
+      <S N="message">User accepted TOS</S>
+      <I64 N="ticks">1640929846196</I64>
+      <S N="tagId">tagId_2</S>
+      <S N="category">GDPR</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">ba626fc8-6505-b6be-6cd4acaa-0aa40c6aa188</S>
+      <S N="timestamp">12/31/2021 5:50:46 AM</S>
+      <S N="logId">0e98ebe2-20211231T055046196</S>
+      <S N="caller">gdpr.toast</S>
+    </MS>
+  </Obj>
+  <Obj RefId="91">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="message">Loading: https://staging.olainterpreting.com/posts/legal/</S>
+      <S N="indexId">202112</S>
+      <S N="type">Info</S>
+      <I64 N="width">1918</I64>
+      <I64 N="ticks">1640929861319</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="SessionId">0e98ebe2-1ce1-8c25-7ae5b9f9-bfdeea8d9c42</S>
+      <I64 N="height">1045</I64>
+      <S N="logId">0e98ebe2-20211231T055101319</S>
+      <S N="siteVersion">1.0.25</S>
+      <S N="category">Bootstrap</S>
+      <S N="timestamp">12/31/2021 5:51:01 AM</S>
+      <S N="ClientId">ba626fc8-6505-b6be-6cd4acaa-0aa40c6aa188</S>
+      <S N="caller">document.body</S>
+      <S N="url">https://staging.olainterpreting.com/posts/legal/</S>
+      <S N="timezone">UTC-8</S>
+      <S N="client">BrewingCatsCore</S>
+    </MS>
+  </Obj>
+  <Obj RefId="92">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="message">Loading: https://staging.olainterpreting.com/</S>
+      <S N="indexId">202112</S>
+      <S N="type">Info</S>
+      <I64 N="width">1918</I64>
+      <I64 N="ticks">1640929872757</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="SessionId">0e98ebe2-1ce1-8c25-7ae5b9f9-bfdeea8d9c42</S>
+      <I64 N="height">1045</I64>
+      <S N="logId">0e98ebe2-20211231T055112757</S>
+      <S N="siteVersion">1.0.25</S>
+      <S N="category">Bootstrap</S>
+      <S N="timestamp">12/31/2021 5:51:12 AM</S>
+      <S N="ClientId">ba626fc8-6505-b6be-6cd4acaa-0aa40c6aa188</S>
+      <S N="caller">document.body</S>
+      <S N="url">https://staging.olainterpreting.com/</S>
+      <S N="timezone">UTC-8</S>
+      <S N="client">BrewingCatsCore</S>
+    </MS>
+  </Obj>
+  <Obj RefId="93">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="message">Loading: https://staging.olainterpreting.com/posts/healthcare/</S>
+      <S N="indexId">202112</S>
+      <S N="type">Info</S>
+      <I64 N="width">1918</I64>
+      <I64 N="ticks">1640929875950</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="SessionId">0e98ebe2-1ce1-8c25-7ae5b9f9-bfdeea8d9c42</S>
+      <I64 N="height">1045</I64>
+      <S N="logId">0e98ebe2-20211231T055115950</S>
+      <S N="siteVersion">1.0.25</S>
+      <S N="category">Bootstrap</S>
+      <S N="timestamp">12/31/2021 5:51:15 AM</S>
+      <S N="ClientId">ba626fc8-6505-b6be-6cd4acaa-0aa40c6aa188</S>
+      <S N="caller">document.body</S>
+      <S N="url">https://staging.olainterpreting.com/posts/healthcare/</S>
+      <S N="timezone">UTC-8</S>
+      <S N="client">BrewingCatsCore</S>
+    </MS>
+  </Obj>
+  <Obj RefId="94">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="message">Loading: https://staging.olainterpreting.com/</S>
+      <S N="indexId">202112</S>
+      <S N="type">Info</S>
+      <I64 N="width">1918</I64>
+      <I64 N="ticks">1640929882326</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="SessionId">0e98ebe2-1ce1-8c25-7ae5b9f9-bfdeea8d9c42</S>
+      <I64 N="height">1045</I64>
+      <S N="logId">0e98ebe2-20211231T055122326</S>
+      <S N="siteVersion">1.0.25</S>
+      <S N="category">Bootstrap</S>
+      <S N="timestamp">12/31/2021 5:51:22 AM</S>
+      <S N="ClientId">ba626fc8-6505-b6be-6cd4acaa-0aa40c6aa188</S>
+      <S N="caller">document.body</S>
+      <S N="url">https://staging.olainterpreting.com/</S>
+      <S N="timezone">UTC-8</S>
+      <S N="client">BrewingCatsCore</S>
+    </MS>
+  </Obj>
+  <Obj RefId="95">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="message">Loading: https://staging.olainterpreting.com/es/</S>
+      <S N="indexId">202112</S>
+      <S N="type">Info</S>
+      <I64 N="width">1918</I64>
+      <I64 N="ticks">1640929883835</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="SessionId">0e98ebe2-1ce1-8c25-7ae5b9f9-bfdeea8d9c42</S>
+      <I64 N="height">1045</I64>
+      <S N="logId">0e98ebe2-20211231T055123835</S>
+      <S N="siteVersion">1.0.25</S>
+      <S N="category">Bootstrap</S>
+      <S N="timestamp">12/31/2021 5:51:23 AM</S>
+      <S N="ClientId">ba626fc8-6505-b6be-6cd4acaa-0aa40c6aa188</S>
+      <S N="caller">document.body</S>
+      <S N="url">https://staging.olainterpreting.com/es/</S>
+      <S N="timezone">UTC-8</S>
+      <S N="client">BrewingCatsCore</S>
+    </MS>
+  </Obj>
+  <Obj RefId="96">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="message">Loading: https://staging.olainterpreting.com/es/posts/legal/</S>
+      <S N="indexId">202112</S>
+      <S N="type">Info</S>
+      <I64 N="width">1918</I64>
+      <I64 N="ticks">1640929890139</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="SessionId">0e98ebe2-1ce1-8c25-7ae5b9f9-bfdeea8d9c42</S>
+      <I64 N="height">1045</I64>
+      <S N="logId">0e98ebe2-20211231T055130139</S>
+      <S N="siteVersion">1.0.25</S>
+      <S N="category">Bootstrap</S>
+      <S N="timestamp">12/31/2021 5:51:30 AM</S>
+      <S N="ClientId">ba626fc8-6505-b6be-6cd4acaa-0aa40c6aa188</S>
+      <S N="caller">document.body</S>
+      <S N="url">https://staging.olainterpreting.com/es/posts/legal/</S>
+      <S N="timezone">UTC-8</S>
+      <S N="client">BrewingCatsCore</S>
+    </MS>
+  </Obj>
+  <Obj RefId="97">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="message">Loading: https://staging.olainterpreting.com/es/</S>
+      <S N="indexId">202112</S>
+      <S N="type">Info</S>
+      <I64 N="width">1918</I64>
+      <I64 N="ticks">1640929893594</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="SessionId">0e98ebe2-1ce1-8c25-7ae5b9f9-bfdeea8d9c42</S>
+      <I64 N="height">1045</I64>
+      <S N="logId">0e98ebe2-20211231T055133594</S>
+      <S N="siteVersion">1.0.25</S>
+      <S N="category">Bootstrap</S>
+      <S N="timestamp">12/31/2021 5:51:33 AM</S>
+      <S N="ClientId">ba626fc8-6505-b6be-6cd4acaa-0aa40c6aa188</S>
+      <S N="caller">document.body</S>
+      <S N="url">https://staging.olainterpreting.com/es/</S>
+      <S N="timezone">UTC-8</S>
+      <S N="client">BrewingCatsCore</S>
+    </MS>
+  </Obj>
+  <Obj RefId="98">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="message">Loading: https://staging.olainterpreting.com/</S>
+      <S N="indexId">202112</S>
+      <S N="type">Info</S>
+      <I64 N="width">1918</I64>
+      <I64 N="ticks">1640929895114</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="SessionId">0e98ebe2-1ce1-8c25-7ae5b9f9-bfdeea8d9c42</S>
+      <I64 N="height">1045</I64>
+      <S N="logId">0e98ebe2-20211231T055135114</S>
+      <S N="siteVersion">1.0.25</S>
+      <S N="category">Bootstrap</S>
+      <S N="timestamp">12/31/2021 5:51:35 AM</S>
+      <S N="ClientId">ba626fc8-6505-b6be-6cd4acaa-0aa40c6aa188</S>
+      <S N="caller">document.body</S>
+      <S N="url">https://staging.olainterpreting.com/</S>
+      <S N="timezone">UTC-8</S>
+      <S N="client">BrewingCatsCore</S>
+    </MS>
+  </Obj>
+  <Obj RefId="99">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="message">New user session</S>
+      <S N="indexId">202112</S>
+      <S N="type">Info</S>
+      <I64 N="ticks">1640856453194</I64>
+      <S N="userAgent">Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Mobile/15E148 Safari/604.1</S>
+      <S N="tagId">tagId_7</S>
+      <S N="SessionId">15f3b282-400b-dfcc-443a4325-ca325f11c129</S>
+      <S N="logId">15f3b282-20211230T092733194</S>
+      <S N="category">Bootstrap</S>
+      <S N="timestamp">12/30/2021 9:27:33 AM</S>
+      <S N="ClientId">1b48d12e-6ce5-46bd-c88fcce2-b2963e1dafd7</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="client">BrewingCatsCore</S>
+    </MS>
+  </Obj>
+  <Obj RefId="100">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="message">Loading: https://staging.brewingcats.com/</S>
+      <S N="indexId">202112</S>
+      <S N="type">Info</S>
+      <I64 N="width">428</I64>
+      <I64 N="ticks">1640856453230</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="SessionId">15f3b282-400b-dfcc-443a4325-ca325f11c129</S>
+      <I64 N="height">746</I64>
+      <S N="logId">15f3b282-20211230T092733230</S>
+      <S N="siteVersion">3.26.25</S>
+      <S N="category">Bootstrap</S>
+      <S N="timestamp">12/30/2021 9:27:33 AM</S>
+      <S N="ClientId">1b48d12e-6ce5-46bd-c88fcce2-b2963e1dafd7</S>
+      <S N="caller">document.body</S>
+      <S N="url">https://staging.brewingcats.com/</S>
+      <S N="timezone">UTC-8</S>
+      <S N="client">BrewingCatsCore</S>
+    </MS>
+  </Obj>
+  <Obj RefId="101">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="message">Loading: https://staging.olainterpreting.com/</S>
+      <S N="indexId">202112</S>
+      <S N="type">Info</S>
+      <I64 N="width">1773</I64>
+      <I64 N="ticks">1640930306122</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="SessionId">1df0d4de-9d9e-d0e0-1c3a6bdf-fa82e3b5a12d</S>
+      <I64 N="height">1041</I64>
+      <S N="logId">1df0d4de-20211231T055826122</S>
+      <S N="siteVersion">1.0.25</S>
+      <S N="category">Bootstrap</S>
+      <S N="timestamp">12/31/2021 5:58:26 AM</S>
+      <S N="ClientId">21f62af2-8143-ab2b-09c4950c-7193ec7bb563</S>
+      <S N="caller">document.body</S>
+      <S N="url">https://staging.olainterpreting.com/</S>
+      <S N="timezone">UTC-8</S>
+      <S N="client">BrewingCatsCore</S>
+    </MS>
+  </Obj>
+  <Obj RefId="102">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="SessionId">1df0d4de-9d9e-d0e0-1c3a6bdf-fa82e3b5a12d</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="type">Info</S>
+      <S N="message">User accepted TOS</S>
+      <I64 N="ticks">1640930311164</I64>
+      <S N="tagId">tagId_2</S>
+      <S N="category">GDPR</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">21f62af2-8143-ab2b-09c4950c-7193ec7bb563</S>
+      <S N="timestamp">12/31/2021 5:58:31 AM</S>
+      <S N="logId">1df0d4de-20211231T055831164</S>
+      <S N="caller">gdpr.toast</S>
+    </MS>
+  </Obj>
+  <Obj RefId="103">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="message">Loading: https://staging.olainterpreting.com/posts/careers/</S>
+      <S N="indexId">202112</S>
+      <S N="type">Info</S>
+      <I64 N="width">1773</I64>
+      <I64 N="ticks">1640930315639</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="SessionId">1df0d4de-9d9e-d0e0-1c3a6bdf-fa82e3b5a12d</S>
+      <I64 N="height">1041</I64>
+      <S N="logId">1df0d4de-20211231T055835639</S>
+      <S N="siteVersion">1.0.25</S>
+      <S N="category">Bootstrap</S>
+      <S N="timestamp">12/31/2021 5:58:35 AM</S>
+      <S N="ClientId">21f62af2-8143-ab2b-09c4950c-7193ec7bb563</S>
+      <S N="caller">document.body</S>
+      <S N="url">https://staging.olainterpreting.com/posts/careers/</S>
+      <S N="timezone">UTC-8</S>
+      <S N="client">BrewingCatsCore</S>
+    </MS>
+  </Obj>
+  <Obj RefId="104">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="message">Loading: https://staging.olainterpreting.com/</S>
+      <S N="indexId">202112</S>
+      <S N="type">Info</S>
+      <I64 N="width">1773</I64>
+      <I64 N="ticks">1640930325253</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="SessionId">1df0d4de-9d9e-d0e0-1c3a6bdf-fa82e3b5a12d</S>
+      <I64 N="height">1041</I64>
+      <S N="logId">1df0d4de-20211231T055845253</S>
+      <S N="siteVersion">1.0.25</S>
+      <S N="category">Bootstrap</S>
+      <S N="timestamp">12/31/2021 5:58:45 AM</S>
+      <S N="ClientId">21f62af2-8143-ab2b-09c4950c-7193ec7bb563</S>
+      <S N="caller">document.body</S>
+      <S N="url">https://staging.olainterpreting.com/</S>
+      <S N="timezone">UTC-8</S>
+      <S N="client">BrewingCatsCore</S>
+    </MS>
+  </Obj>
+  <Obj RefId="105">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="message">New user session</S>
+      <S N="indexId">202112</S>
+      <S N="type">Info</S>
+      <I64 N="ticks">1640822702126</I64>
+      <S N="userAgent">Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 OPR/81.0.4196.61</S>
+      <S N="tagId">tagId_7</S>
+      <S N="SessionId">af21582e-908e-6248-a97912d2-873870a03ca9</S>
+      <S N="logId">af21582e-20211230T000502126</S>
+      <S N="category">Bootstrap</S>
+      <S N="timestamp">12/30/2021 12:05:02 AM</S>
+      <S N="ClientId">eec57460-80a0-deb6-ba12d31b-f55fbdc089c5</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="client">BrewingCatsCore</S>
+    </MS>
+  </Obj>
+  <Obj RefId="106">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="message">Loading: https://staging.brewingcats.com/posts/projects/merchandise/nft/lottery/#carousel-label-FirstBoardSecondBoardThirdBoardFourthBoard</S>
+      <S N="indexId">202112</S>
+      <S N="type">Info</S>
+      <I64 N="width">1879</I64>
+      <I64 N="ticks">1640822702139</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="SessionId">af21582e-908e-6248-a97912d2-873870a03ca9</S>
+      <I64 N="height">1051</I64>
+      <S N="logId">af21582e-20211230T000502139</S>
+      <S N="siteVersion">3.26.25</S>
+      <S N="category">Bootstrap</S>
+      <S N="timestamp">12/30/2021 12:05:02 AM</S>
+      <S N="ClientId">eec57460-80a0-deb6-ba12d31b-f55fbdc089c5</S>
+      <S N="caller">document.body</S>
+      <S N="url">https://staging.brewingcats.com/posts/projects/merchandise/nft/lottery/#carousel-label-FirstBoardSecondBoardThirdBoardFourthBoard</S>
+      <S N="timezone">UTC-8</S>
+      <S N="client">BrewingCatsCore</S>
+    </MS>
+  </Obj>
+  <Obj RefId="107">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="message">Carousel Component</S>
+      <S N="indexId">202112</S>
+      <S N="type">Info</S>
+      <I64 N="ticks">1640822702265</I64>
+      <S N="component">Carousel</S>
+      <S N="tagId">tagId_e</S>
+      <S N="SessionId">af21582e-908e-6248-a97912d2-873870a03ca9</S>
+      <S N="logId">af21582e-20211230T000502265</S>
+      <S N="category">ComponentSetup</S>
+      <S N="timestamp">12/30/2021 12:05:02 AM</S>
+      <S N="ClientId">eec57460-80a0-deb6-ba12d31b-f55fbdc089c5</S>
+      <S N="caller">component.carousel</S>
+      <S N="client">BrewingCatsCore</S>
+    </MS>
+  </Obj>
+  <Obj RefId="108">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="message">Carousel Component</S>
+      <S N="indexId">202112</S>
+      <S N="type">Info</S>
+      <I64 N="ticks">1640822702266</I64>
+      <S N="component">Carousel</S>
+      <S N="tagId">tagId_e</S>
+      <S N="SessionId">af21582e-908e-6248-a97912d2-873870a03ca9</S>
+      <S N="logId">af21582e-20211230T000502266</S>
+      <S N="category">ComponentSetup</S>
+      <S N="timestamp">12/30/2021 12:05:02 AM</S>
+      <S N="ClientId">eec57460-80a0-deb6-ba12d31b-f55fbdc089c5</S>
+      <S N="caller">component.carousel</S>
+      <S N="client">BrewingCatsCore</S>
+    </MS>
+  </Obj>
+  <Obj RefId="109">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="message">New user session</S>
+      <S N="indexId">202112</S>
+      <S N="type">Info</S>
+      <I64 N="ticks">1640893718332</I64>
+      <S N="userAgent">Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/96.0.4664.116 Mobile/15E148 Safari/604.1</S>
+      <S N="tagId">tagId_7</S>
+      <S N="SessionId">d6414281-7dc2-a833-daab7c7c-6b8c604e74b5</S>
+      <S N="logId">d6414281-20211230T194838332</S>
+      <S N="category">Bootstrap</S>
+      <S N="timestamp">12/30/2021 7:48:38 PM</S>
+      <S N="ClientId">7fa1c454-2ce0-bc1c-733d01d2-e2d807836f92</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="client">BrewingCatsCore</S>
+    </MS>
+  </Obj>
+  <Obj RefId="110">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="message">Loading: https://staging.brewingcats.com/</S>
+      <S N="indexId">202112</S>
+      <S N="type">Info</S>
+      <I64 N="width">428</I64>
+      <I64 N="ticks">1640893718340</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="SessionId">d6414281-7dc2-a833-daab7c7c-6b8c604e74b5</S>
+      <I64 N="height">926</I64>
+      <S N="logId">d6414281-20211230T194838340</S>
+      <S N="siteVersion">3.26.25</S>
+      <S N="category">Bootstrap</S>
+      <S N="timestamp">12/30/2021 7:48:38 PM</S>
+      <S N="ClientId">7fa1c454-2ce0-bc1c-733d01d2-e2d807836f92</S>
+      <S N="caller">document.body</S>
+      <S N="url">https://staging.brewingcats.com/</S>
+      <S N="timezone">UTC-8</S>
+      <S N="client">BrewingCatsCore</S>
+    </MS>
+  </Obj>
+  <Obj RefId="111">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="message">New user session</S>
+      <S N="indexId">202112</S>
+      <S N="type">Info</S>
+      <I64 N="ticks">1640919365586</I64>
+      <S N="userAgent">Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Mobile/15E148 Safari/604.1</S>
+      <S N="tagId">tagId_7</S>
+      <S N="SessionId">e679b723-3ee7-eea2-eb264368-42358ddf8d84</S>
+      <S N="logId">e679b723-20211231T025605586</S>
+      <S N="category">Bootstrap</S>
+      <S N="timestamp">12/31/2021 2:56:05 AM</S>
+      <S N="ClientId">1b48d12e-6ce5-46bd-c88fcce2-b2963e1dafd7</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="client">BrewingCatsCore</S>
+    </MS>
+  </Obj>
+  <Obj RefId="112">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="message">Loading: https://staging.brewingcats.com/</S>
+      <S N="indexId">202112</S>
+      <S N="type">Info</S>
+      <I64 N="width">428</I64>
+      <I64 N="ticks">1640919365592</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="SessionId">e679b723-3ee7-eea2-eb264368-42358ddf8d84</S>
+      <I64 N="height">746</I64>
+      <S N="logId">e679b723-20211231T025605592</S>
+      <S N="siteVersion">3.26.25</S>
+      <S N="category">Bootstrap</S>
+      <S N="timestamp">12/31/2021 2:56:05 AM</S>
+      <S N="ClientId">1b48d12e-6ce5-46bd-c88fcce2-b2963e1dafd7</S>
+      <S N="caller">document.body</S>
+      <S N="url">https://staging.brewingcats.com/</S>
+      <S N="timezone">UTC-8</S>
+      <S N="client">BrewingCatsCore</S>
+    </MS>
+  </Obj>
+  <Obj RefId="113">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="message">New user session</S>
+      <S N="indexId">202112</S>
+      <S N="type">Info</S>
+      <I64 N="ticks">1640852294525</I64>
+      <S N="userAgent">Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/96.0.4664.116 Mobile/15E148 Safari/604.1</S>
+      <S N="tagId">tagId_7</S>
+      <S N="SessionId">e6df0463-c22d-83d3-6e22e5c9-f860b792e4ef</S>
+      <S N="logId">e6df0463-20211230T081814525</S>
+      <S N="category">Bootstrap</S>
+      <S N="timestamp">12/30/2021 8:18:14 AM</S>
+      <S N="ClientId">7fa1c454-2ce0-bc1c-733d01d2-e2d807836f92</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="client">BrewingCatsCore</S>
+    </MS>
+  </Obj>
+  <Obj RefId="114">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="message">Loading: https://staging.brewingcats.com/</S>
+      <S N="indexId">202112</S>
+      <S N="type">Info</S>
+      <I64 N="width">428</I64>
+      <I64 N="ticks">1640852294528</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="SessionId">e6df0463-c22d-83d3-6e22e5c9-f860b792e4ef</S>
+      <I64 N="height">879</I64>
+      <S N="logId">e6df0463-20211230T081814528</S>
+      <S N="siteVersion">3.26.25</S>
+      <S N="category">Bootstrap</S>
+      <S N="timestamp">12/30/2021 8:18:14 AM</S>
+      <S N="ClientId">7fa1c454-2ce0-bc1c-733d01d2-e2d807836f92</S>
+      <S N="caller">document.body</S>
+      <S N="url">https://staging.brewingcats.com/</S>
+      <S N="timezone">UTC-8</S>
+      <S N="client">BrewingCatsCore</S>
+    </MS>
+  </Obj>
+  <Obj RefId="115">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="message">Loading: https://staging.brewingcats.com/posts/projects/merchandise/nft/lottery/</S>
+      <S N="indexId">202112</S>
+      <S N="type">Info</S>
+      <I64 N="width">1773</I64>
+      <I64 N="ticks">1640822588232</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="SessionId">eac11135-a426-3f69-f8395de9-37bad77dd20b</S>
+      <I64 N="height">1041</I64>
+      <S N="logId">eac11135-20211230T000308232</S>
+      <S N="siteVersion">3.26.25</S>
+      <S N="category">Bootstrap</S>
+      <S N="timestamp">12/30/2021 12:03:08 AM</S>
+      <S N="ClientId">d6ea3387-eafa-027c-73ee1e4e-0e1610f13e2b</S>
+      <S N="caller">document.body</S>
+      <S N="url">https://staging.brewingcats.com/posts/projects/merchandise/nft/lottery/</S>
+      <S N="timezone">UTC-8</S>
+      <S N="client">BrewingCatsCore</S>
+    </MS>
+  </Obj>
+  <Obj RefId="116">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="message">Carousel Component</S>
+      <S N="indexId">202112</S>
+      <S N="type">Info</S>
+      <I64 N="ticks">1640822588354</I64>
+      <S N="component">Carousel</S>
+      <S N="tagId">tagId_e</S>
+      <S N="SessionId">eac11135-a426-3f69-f8395de9-37bad77dd20b</S>
+      <S N="logId">eac11135-20211230T000308354</S>
+      <S N="category">ComponentSetup</S>
+      <S N="timestamp">12/30/2021 12:03:08 AM</S>
+      <S N="ClientId">d6ea3387-eafa-027c-73ee1e4e-0e1610f13e2b</S>
+      <S N="caller">component.carousel</S>
+      <S N="client">BrewingCatsCore</S>
+    </MS>
+  </Obj>
+  <Obj RefId="117">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="message">Carousel Component</S>
+      <S N="indexId">202112</S>
+      <S N="type">Info</S>
+      <I64 N="ticks">1640822588356</I64>
+      <S N="component">Carousel</S>
+      <S N="tagId">tagId_e</S>
+      <S N="SessionId">eac11135-a426-3f69-f8395de9-37bad77dd20b</S>
+      <S N="logId">eac11135-20211230T000308356</S>
+      <S N="category">ComponentSetup</S>
+      <S N="timestamp">12/30/2021 12:03:08 AM</S>
+      <S N="ClientId">d6ea3387-eafa-027c-73ee1e4e-0e1610f13e2b</S>
+      <S N="caller">component.carousel</S>
+      <S N="client">BrewingCatsCore</S>
+    </MS>
+  </Obj>
+  <Obj RefId="118">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="message">Loading: https://staging.brewingcats.com/posts/projects/merchandise/nft/lottery/#carousel-label-FirstBoardSecondBoardThirdBoardFourthBoard</S>
+      <S N="indexId">202112</S>
+      <S N="type">Info</S>
+      <I64 N="width">1200</I64>
+      <I64 N="ticks">1640822638945</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="SessionId">eac11135-a426-3f69-f8395de9-37bad77dd20b</S>
+      <I64 N="height">1041</I64>
+      <S N="logId">eac11135-20211230T000358945</S>
+      <S N="siteVersion">3.26.25</S>
+      <S N="category">Bootstrap</S>
+      <S N="timestamp">12/30/2021 12:03:58 AM</S>
+      <S N="ClientId">d6ea3387-eafa-027c-73ee1e4e-0e1610f13e2b</S>
+      <S N="caller">document.body</S>
+      <S N="url">https://staging.brewingcats.com/posts/projects/merchandise/nft/lottery/#carousel-label-FirstBoardSecondBoardThirdBoardFourthBoard</S>
+      <S N="timezone">UTC-8</S>
+      <S N="client">BrewingCatsCore</S>
+    </MS>
+  </Obj>
+  <Obj RefId="119">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="message">Carousel Component</S>
+      <S N="indexId">202112</S>
+      <S N="type">Info</S>
+      <I64 N="ticks">1640822639029</I64>
+      <S N="component">Carousel</S>
+      <S N="tagId">tagId_e</S>
+      <S N="SessionId">eac11135-a426-3f69-f8395de9-37bad77dd20b</S>
+      <S N="logId">eac11135-20211230T000359029</S>
+      <S N="category">ComponentSetup</S>
+      <S N="timestamp">12/30/2021 12:03:59 AM</S>
+      <S N="ClientId">d6ea3387-eafa-027c-73ee1e4e-0e1610f13e2b</S>
+      <S N="caller">component.carousel</S>
+      <S N="client">BrewingCatsCore</S>
+    </MS>
+  </Obj>
+  <Obj RefId="120">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="message">Carousel Component</S>
+      <S N="indexId">202112</S>
+      <S N="type">Info</S>
+      <I64 N="ticks">1640822639031</I64>
+      <S N="component">Carousel</S>
+      <S N="tagId">tagId_e</S>
+      <S N="SessionId">eac11135-a426-3f69-f8395de9-37bad77dd20b</S>
+      <S N="logId">eac11135-20211230T000359031</S>
+      <S N="category">ComponentSetup</S>
+      <S N="timestamp">12/30/2021 12:03:59 AM</S>
+      <S N="ClientId">d6ea3387-eafa-027c-73ee1e4e-0e1610f13e2b</S>
+      <S N="caller">component.carousel</S>
+      <S N="client">BrewingCatsCore</S>
+    </MS>
+  </Obj>
+  <Obj RefId="121">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="message">Loading: https://staging.brewingcats.com/posts/projects/merchandise/nft/lottery/#carousel-label-FirstBoardSecondBoardThirdBoardFourthBoard</S>
+      <S N="indexId">202112</S>
+      <S N="type">Info</S>
+      <I64 N="width">1200</I64>
+      <I64 N="ticks">1640822642542</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="SessionId">eac11135-a426-3f69-f8395de9-37bad77dd20b</S>
+      <I64 N="height">1041</I64>
+      <S N="logId">eac11135-20211230T000402542</S>
+      <S N="siteVersion">3.26.25</S>
+      <S N="category">Bootstrap</S>
+      <S N="timestamp">12/30/2021 12:04:02 AM</S>
+      <S N="ClientId">d6ea3387-eafa-027c-73ee1e4e-0e1610f13e2b</S>
+      <S N="caller">document.body</S>
+      <S N="url">https://staging.brewingcats.com/posts/projects/merchandise/nft/lottery/#carousel-label-FirstBoardSecondBoardThirdBoardFourthBoard</S>
+      <S N="timezone">UTC-8</S>
+      <S N="client">BrewingCatsCore</S>
+    </MS>
+  </Obj>
+  <Obj RefId="122">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="message">Carousel Component</S>
+      <S N="indexId">202112</S>
+      <S N="type">Info</S>
+      <I64 N="ticks">1640822642607</I64>
+      <S N="component">Carousel</S>
+      <S N="tagId">tagId_e</S>
+      <S N="SessionId">eac11135-a426-3f69-f8395de9-37bad77dd20b</S>
+      <S N="logId">eac11135-20211230T000402607</S>
+      <S N="category">ComponentSetup</S>
+      <S N="timestamp">12/30/2021 12:04:02 AM</S>
+      <S N="ClientId">d6ea3387-eafa-027c-73ee1e4e-0e1610f13e2b</S>
+      <S N="caller">component.carousel</S>
+      <S N="client">BrewingCatsCore</S>
+    </MS>
+  </Obj>
+  <Obj RefId="123">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="message">Carousel Component</S>
+      <S N="indexId">202112</S>
+      <S N="type">Info</S>
+      <I64 N="ticks">1640822642609</I64>
+      <S N="component">Carousel</S>
+      <S N="tagId">tagId_e</S>
+      <S N="SessionId">eac11135-a426-3f69-f8395de9-37bad77dd20b</S>
+      <S N="logId">eac11135-20211230T000402609</S>
+      <S N="category">ComponentSetup</S>
+      <S N="timestamp">12/30/2021 12:04:02 AM</S>
+      <S N="ClientId">d6ea3387-eafa-027c-73ee1e4e-0e1610f13e2b</S>
+      <S N="caller">component.carousel</S>
+      <S N="client">BrewingCatsCore</S>
+    </MS>
+  </Obj>
+  <Obj RefId="124">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="message">Loading: https://staging.brewingcats.com/posts/projects/merchandise/nft/lottery/#carousel-label-FirstBoardSecondBoardThirdBoardFourthBoard</S>
+      <S N="indexId">202112</S>
+      <S N="type">Info</S>
+      <I64 N="width">1200</I64>
+      <I64 N="ticks">1640822649267</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="SessionId">eac11135-a426-3f69-f8395de9-37bad77dd20b</S>
+      <I64 N="height">1041</I64>
+      <S N="logId">eac11135-20211230T000409267</S>
+      <S N="siteVersion">3.26.25</S>
+      <S N="category">Bootstrap</S>
+      <S N="timestamp">12/30/2021 12:04:09 AM</S>
+      <S N="ClientId">d6ea3387-eafa-027c-73ee1e4e-0e1610f13e2b</S>
+      <S N="caller">document.body</S>
+      <S N="url">https://staging.brewingcats.com/posts/projects/merchandise/nft/lottery/#carousel-label-FirstBoardSecondBoardThirdBoardFourthBoard</S>
+      <S N="timezone">UTC-8</S>
+      <S N="client">BrewingCatsCore</S>
+    </MS>
+  </Obj>
+  <Obj RefId="125">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="message">Carousel Component</S>
+      <S N="indexId">202112</S>
+      <S N="type">Info</S>
+      <I64 N="ticks">1640822649350</I64>
+      <S N="component">Carousel</S>
+      <S N="tagId">tagId_e</S>
+      <S N="SessionId">eac11135-a426-3f69-f8395de9-37bad77dd20b</S>
+      <S N="logId">eac11135-20211230T000409350</S>
+      <S N="category">ComponentSetup</S>
+      <S N="timestamp">12/30/2021 12:04:09 AM</S>
+      <S N="ClientId">d6ea3387-eafa-027c-73ee1e4e-0e1610f13e2b</S>
+      <S N="caller">component.carousel</S>
+      <S N="client">BrewingCatsCore</S>
+    </MS>
+  </Obj>
+  <Obj RefId="126">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="message">Carousel Component</S>
+      <S N="indexId">202112</S>
+      <S N="type">Info</S>
+      <I64 N="ticks">1640822649355</I64>
+      <S N="component">Carousel</S>
+      <S N="tagId">tagId_e</S>
+      <S N="SessionId">eac11135-a426-3f69-f8395de9-37bad77dd20b</S>
+      <S N="logId">eac11135-20211230T000409355</S>
+      <S N="category">ComponentSetup</S>
+      <S N="timestamp">12/30/2021 12:04:09 AM</S>
+      <S N="ClientId">d6ea3387-eafa-027c-73ee1e4e-0e1610f13e2b</S>
+      <S N="caller">component.carousel</S>
+      <S N="client">BrewingCatsCore</S>
+    </MS>
+  </Obj>
+  <Obj RefId="127">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="message">Loading: https://staging.brewingcats.com/</S>
+      <S N="indexId">202112</S>
+      <S N="type">Info</S>
+      <I64 N="width">1200</I64>
+      <I64 N="ticks">1640827997392</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="SessionId">eac11135-a426-3f69-f8395de9-37bad77dd20b</S>
+      <I64 N="height">1041</I64>
+      <S N="logId">eac11135-20211230T013317392</S>
+      <S N="siteVersion">3.26.25</S>
+      <S N="category">Bootstrap</S>
+      <S N="timestamp">12/30/2021 1:33:17 AM</S>
+      <S N="ClientId">d6ea3387-eafa-027c-73ee1e4e-0e1610f13e2b</S>
+      <S N="caller">document.body</S>
+      <S N="url">https://staging.brewingcats.com/</S>
+      <S N="timezone">UTC-8</S>
+      <S N="client">BrewingCatsCore</S>
+    </MS>
+  </Obj>
+  <Obj RefId="128">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="SessionId">eac11135-a426-3f69-f8395de9-37bad77dd20b</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="type">Info</S>
+      <S N="message">User accepted TOS</S>
+      <I64 N="ticks">1640828001389</I64>
+      <S N="tagId">tagId_2</S>
+      <S N="category">GDPR</S>
+      <S N="indexId">202112</S>
+      <S N="ClientId">d6ea3387-eafa-027c-73ee1e4e-0e1610f13e2b</S>
+      <S N="timestamp">12/30/2021 1:33:21 AM</S>
+      <S N="logId">eac11135-20211230T013321389</S>
+      <S N="caller">gdpr.toast</S>
+    </MS>
+  </Obj>
+  <Obj RefId="129">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="message">New user session</S>
+      <S N="indexId">202112</S>
+      <S N="type">Info</S>
+      <I64 N="ticks">1640762846836</I64>
+      <S N="userAgent">Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15</S>
+      <S N="tagId">tagId_7</S>
+      <S N="SessionId">f4ed869e-bd48-dcbe-964493c0-1e1d59562ebb</S>
+      <S N="logId">f4ed869e-20211229T072726836</S>
+      <S N="category">Bootstrap</S>
+      <S N="timestamp">12/29/2021 7:27:26 AM</S>
+      <S N="ClientId">93cc18b5-c2e1-cdbd-35cad9e2-b8726f583bf5</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="client">BrewingCatsCore</S>
+    </MS>
+  </Obj>
+  <Obj RefId="130">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="message">Loading: https://staging.brewingcats.com/</S>
+      <S N="indexId">202112</S>
+      <S N="type">Info</S>
+      <I64 N="width">1918</I64>
+      <I64 N="ticks">1640762846842</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="SessionId">f4ed869e-bd48-dcbe-964493c0-1e1d59562ebb</S>
+      <I64 N="height">1045</I64>
+      <S N="logId">f4ed869e-20211229T072726842</S>
+      <S N="siteVersion">3.26.25</S>
+      <S N="category">Bootstrap</S>
+      <S N="timestamp">12/29/2021 7:27:26 AM</S>
+      <S N="ClientId">93cc18b5-c2e1-cdbd-35cad9e2-b8726f583bf5</S>
+      <S N="caller">document.body</S>
+      <S N="url">https://staging.brewingcats.com/</S>
+      <S N="timezone">UTC-8</S>
+      <S N="client">BrewingCatsCore</S>
+    </MS>
+  </Obj>
+</Objs>

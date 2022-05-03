@@ -1,0 +1,2598 @@
+<Objs Version="1.1.0.1" xmlns="http://schemas.microsoft.com/powershell/2004/04">
+  <Obj RefId="0">
+    <TN RefId="0">
+      <T>Deserialized.System.Management.Automation.PSCustomObject</T>
+      <T>Deserialized.System.Object</T>
+    </TN>
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">660dab58-8a31-9eb1-bff75a94-ad3a56700cde</S>
+      <S N="message">New user session</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651451271963</I64>
+      <S N="category">Bootstrap</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="SessionId">06b500bc-39e4-13ae-a2438a5e-f41c0903190c</S>
+      <S N="timestamp">5/2/2022 12:27:51 AM</S>
+      <S N="BrewingCatsCoreVersion">1.13</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="userAgent">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.71 Safari/537.36</S>
+      <S N="tagId">tagId_7</S>
+      <S N="indexId">202205</S>
+      <S N="logId">06b500bc-20220502T002751963</S>
+    </MS>
+  </Obj>
+  <Obj RefId="1">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">660dab58-8a31-9eb1-bff75a94-ad3a56700cde</S>
+      <S N="message">Loading: https://brewingcats.com/posts/projects/merchandise/nft/lottery/</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651451271977</I64>
+      <I64 N="height">1200</I64>
+      <S N="category">Bootstrap</S>
+      <S N="url">https://brewingcats.com/posts/projects/merchandise/nft/lottery/</S>
+      <S N="caller">document.body</S>
+      <S N="SessionId">06b500bc-39e4-13ae-a2438a5e-f41c0903190c</S>
+      <S N="timestamp">5/2/2022 12:27:51 AM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <I64 N="width">1600</I64>
+      <S N="siteVersion">3.28.28</S>
+      <S N="timezone">UTC+0</S>
+      <S N="tagId">tagId_1</S>
+      <S N="indexId">202205</S>
+      <S N="logId">06b500bc-20220502T002751977</S>
+    </MS>
+  </Obj>
+  <Obj RefId="2">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">660dab58-8a31-9eb1-bff75a94-ad3a56700cde</S>
+      <S N="message">Carousel Component</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651451272544</I64>
+      <S N="category">ComponentSetup</S>
+      <S N="component">Carousel</S>
+      <S N="caller">component.carousel</S>
+      <S N="SessionId">06b500bc-39e4-13ae-a2438a5e-f41c0903190c</S>
+      <S N="timestamp">5/2/2022 12:27:52 AM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="tagId">tagId_11</S>
+      <S N="indexId">202205</S>
+      <S N="logId">06b500bc-20220502T002752544</S>
+    </MS>
+  </Obj>
+  <Obj RefId="3">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">660dab58-8a31-9eb1-bff75a94-ad3a56700cde</S>
+      <S N="message">Carousel Component</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651451272704</I64>
+      <S N="category">ComponentSetup</S>
+      <S N="component">Carousel</S>
+      <S N="caller">component.carousel</S>
+      <S N="SessionId">06b500bc-39e4-13ae-a2438a5e-f41c0903190c</S>
+      <S N="timestamp">5/2/2022 12:27:52 AM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="tagId">tagId_11</S>
+      <S N="indexId">202205</S>
+      <S N="logId">06b500bc-20220502T002752704</S>
+    </MS>
+  </Obj>
+  <Obj RefId="4">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="SiteViews">5037</I64>
+      <S N="type">Info</S>
+      <S N="ClientId">660dab58-8a31-9eb1-bff75a94-ad3a56700cde</S>
+      <S N="message">Loading: https://brewingcats.com/posts/projects/merchandise/nft/lottery/</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651451285702</I64>
+      <S N="category">Bootstrap</S>
+      <S N="caller">document.body</S>
+      <S N="SessionId">06b500bc-39e4-13ae-a2438a5e-f41c0903190c</S>
+      <S N="timestamp">5/2/2022 12:28:05 AM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <I64 N="PageViews">156</I64>
+      <I64 N="UserPageViews">1</I64>
+      <S N="tagId">tagId_12</S>
+      <S N="indexId">202205</S>
+      <S N="logId">06b500bc-20220502T002805702</S>
+      <I64 N="UserSiteViews">1</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="5">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">35db32f0-d742-5817-3b08b728-fb8c96ad886b</S>
+      <S N="message">New user session</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651514765291</I64>
+      <S N="category">Bootstrap</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="SessionId">0a6a345f-8afb-cf0c-4a3a8d07-47232c9b4b4d</S>
+      <S N="timestamp">5/2/2022 6:06:05 PM</S>
+      <S N="BrewingCatsCoreVersion">1.13</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="userAgent">Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)</S>
+      <S N="tagId">tagId_7</S>
+      <S N="indexId">202205</S>
+      <S N="logId">0a6a345f-20220502T180605291</S>
+    </MS>
+  </Obj>
+  <Obj RefId="6">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">35db32f0-d742-5817-3b08b728-fb8c96ad886b</S>
+      <S N="message">Loading: https://brewingcats.com/es/posts/site/telemetry/</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651514765299</I64>
+      <I64 N="height">600</I64>
+      <S N="category">Bootstrap</S>
+      <S N="url">https://brewingcats.com/es/posts/site/telemetry/</S>
+      <S N="caller">document.body</S>
+      <S N="SessionId">0a6a345f-8afb-cf0c-4a3a8d07-47232c9b4b4d</S>
+      <S N="timestamp">5/2/2022 6:06:05 PM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <I64 N="width">800</I64>
+      <S N="siteVersion">3.28.28</S>
+      <S N="timezone">UTC+0</S>
+      <S N="tagId">tagId_1</S>
+      <S N="indexId">202205</S>
+      <S N="logId">0a6a345f-20220502T180605299</S>
+    </MS>
+  </Obj>
+  <Obj RefId="7">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">35db32f0-d742-5817-3b08b728-fb8c96ad886b</S>
+      <S N="message">Tableau Component</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651514765410</I64>
+      <S N="category">ComponentSetup</S>
+      <S N="component">Tableau</S>
+      <S N="caller">component.tableau</S>
+      <S N="SessionId">0a6a345f-8afb-cf0c-4a3a8d07-47232c9b4b4d</S>
+      <S N="timestamp">5/2/2022 6:06:05 PM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="vizId">viz1613958994931</S>
+      <S N="tagId">tagId_j</S>
+      <S N="indexId">202205</S>
+      <S N="logId">0a6a345f-20220502T180605410</S>
+    </MS>
+  </Obj>
+  <Obj RefId="8">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">82473e23-43ab-ea09-9bf4164e-f2871259da77</S>
+      <S N="message">New user session</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651519047990</I64>
+      <S N="category">Bootstrap</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="SessionId">143d626a-b64b-9c16-f11969cf-c4deb5674da1</S>
+      <S N="timestamp">5/2/2022 7:17:27 PM</S>
+      <S N="BrewingCatsCoreVersion">1.13</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="userAgent">Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)</S>
+      <S N="tagId">tagId_7</S>
+      <S N="indexId">202205</S>
+      <S N="logId">143d626a-20220502T191727990</S>
+    </MS>
+  </Obj>
+  <Obj RefId="9">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">82473e23-43ab-ea09-9bf4164e-f2871259da77</S>
+      <S N="message">Loading: https://brewingcats.com/es/</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651519047997</I64>
+      <I64 N="height">600</I64>
+      <S N="category">Bootstrap</S>
+      <S N="url">https://brewingcats.com/es/</S>
+      <S N="caller">document.body</S>
+      <S N="SessionId">143d626a-b64b-9c16-f11969cf-c4deb5674da1</S>
+      <S N="timestamp">5/2/2022 7:17:27 PM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <I64 N="width">800</I64>
+      <S N="siteVersion">3.28.28</S>
+      <S N="timezone">UTC+0</S>
+      <S N="tagId">tagId_1</S>
+      <S N="indexId">202205</S>
+      <S N="logId">143d626a-20220502T191727997</S>
+    </MS>
+  </Obj>
+  <Obj RefId="10">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">bd751232-d8de-812a-792c6767-2e0f0415d9b9</S>
+      <S N="message">New user session</S>
+      <S N="SessionId">14dcce45-d1b1-69f1-1d51f912-74dd5155eb59</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651363200026</I64>
+      <S N="category">Bootstrap</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="timestamp">5/1/2022 12:00:00 AM</S>
+      <S N="userAgent">Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/100.0.4896.127 Safari/537.36</S>
+      <S N="tagId">tagId_7</S>
+      <S N="indexId">202205</S>
+      <S N="logId">14dcce45-20220501T000000026</S>
+    </MS>
+  </Obj>
+  <Obj RefId="11">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">bd751232-d8de-812a-792c6767-2e0f0415d9b9</S>
+      <S N="message">Loading: https://brewingcats.com/es/posts/projects/uncategorized/latestnews/</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651363200028</I64>
+      <I64 N="height">1024</I64>
+      <S N="category">Bootstrap</S>
+      <S N="url">https://brewingcats.com/es/posts/projects/uncategorized/latestnews/</S>
+      <S N="caller">document.body</S>
+      <S N="SessionId">14dcce45-d1b1-69f1-1d51f912-74dd5155eb59</S>
+      <S N="timestamp">5/1/2022 12:00:00 AM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <I64 N="width">1024</I64>
+      <S N="siteVersion">3.28.28</S>
+      <S N="timezone">UTC-7</S>
+      <S N="tagId">tagId_1</S>
+      <S N="indexId">202205</S>
+      <S N="logId">14dcce45-20220501T000000028</S>
+    </MS>
+  </Obj>
+  <Obj RefId="12">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="SiteViews">5033</I64>
+      <S N="type">Info</S>
+      <S N="ClientId">bd751232-d8de-812a-792c6767-2e0f0415d9b9</S>
+      <S N="message">Loading: https://brewingcats.com/es/posts/site/linktree/</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651363200030</I64>
+      <S N="category">Bootstrap</S>
+      <S N="caller">document.body</S>
+      <S N="SessionId">14dcce45-d1b1-69f1-1d51f912-74dd5155eb59</S>
+      <S N="timestamp">5/1/2022 12:00:00 AM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <I64 N="PageViews">7</I64>
+      <I64 N="UserPageViews">1</I64>
+      <S N="tagId">tagId_12</S>
+      <S N="indexId">202205</S>
+      <S N="logId">14dcce45-20220501T000000030</S>
+      <I64 N="UserSiteViews">1</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="13">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="SiteViews">5029</I64>
+      <S N="type">Info</S>
+      <S N="ClientId">bd751232-d8de-812a-792c6767-2e0f0415d9b9</S>
+      <S N="message">Loading: https://brewingcats.com/es/posts/projects/uncategorized/latestnews/</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651363200040</I64>
+      <S N="category">Bootstrap</S>
+      <S N="caller">document.body</S>
+      <S N="SessionId">14dcce45-d1b1-69f1-1d51f912-74dd5155eb59</S>
+      <S N="timestamp">5/1/2022 12:00:00 AM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <I64 N="PageViews">9</I64>
+      <I64 N="UserPageViews">1</I64>
+      <S N="tagId">tagId_12</S>
+      <S N="indexId">202205</S>
+      <S N="logId">14dcce45-20220501T000000040</S>
+      <I64 N="UserSiteViews">1</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="14">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="SiteViews">5029</I64>
+      <S N="type">Info</S>
+      <S N="ClientId">bd751232-d8de-812a-792c6767-2e0f0415d9b9</S>
+      <S N="message">Loading: https://brewingcats.com/es/posts/projects/uncategorized/latestnews/</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651363200050</I64>
+      <S N="category">Bootstrap</S>
+      <S N="caller">document.body</S>
+      <S N="SessionId">14dcce45-d1b1-69f1-1d51f912-74dd5155eb59</S>
+      <S N="timestamp">5/1/2022 12:00:00 AM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <I64 N="PageViews">9</I64>
+      <I64 N="UserPageViews">1</I64>
+      <S N="tagId">tagId_12</S>
+      <S N="indexId">202205</S>
+      <S N="logId">14dcce45-20220501T000000050</S>
+      <I64 N="UserSiteViews">1</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="15">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">bd751232-d8de-812a-792c6767-2e0f0415d9b9</S>
+      <S N="message">New user session</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651435200026</I64>
+      <S N="category">Bootstrap</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="SessionId">14dcce45-d1b1-69f1-1d51f912-74dd5155eb59</S>
+      <S N="timestamp">5/1/2022 8:00:00 PM</S>
+      <S N="BrewingCatsCoreVersion">1.13</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="userAgent">Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Safari/537.36</S>
+      <S N="tagId">tagId_7</S>
+      <S N="indexId">202205</S>
+      <S N="logId">14dcce45-20220501T200000026</S>
+    </MS>
+  </Obj>
+  <Obj RefId="16">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">bd751232-d8de-812a-792c6767-2e0f0415d9b9</S>
+      <S N="message">Loading: https://brewingcats.com/es/</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651435200028</I64>
+      <I64 N="height">1024</I64>
+      <S N="category">Bootstrap</S>
+      <S N="url">https://brewingcats.com/es/</S>
+      <S N="caller">document.body</S>
+      <S N="SessionId">14dcce45-d1b1-69f1-1d51f912-74dd5155eb59</S>
+      <S N="timestamp">5/1/2022 8:00:00 PM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <I64 N="width">1024</I64>
+      <S N="siteVersion">3.28.28</S>
+      <S N="timezone">UTC-7</S>
+      <S N="tagId">tagId_1</S>
+      <S N="indexId">202205</S>
+      <S N="logId">14dcce45-20220501T200000028</S>
+    </MS>
+  </Obj>
+  <Obj RefId="17">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="SiteViews">5034</I64>
+      <S N="type">Info</S>
+      <S N="ClientId">bd751232-d8de-812a-792c6767-2e0f0415d9b9</S>
+      <S N="message">Loading: https://brewingcats.com/es/</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651435200030</I64>
+      <S N="category">Bootstrap</S>
+      <S N="caller">document.body</S>
+      <S N="SessionId">14dcce45-d1b1-69f1-1d51f912-74dd5155eb59</S>
+      <S N="timestamp">5/1/2022 8:00:00 PM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <I64 N="PageViews">159</I64>
+      <I64 N="UserPageViews">1</I64>
+      <S N="tagId">tagId_12</S>
+      <S N="indexId">202205</S>
+      <S N="logId">14dcce45-20220501T200000030</S>
+      <I64 N="UserSiteViews">1</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="18">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">bd751232-d8de-812a-792c6767-2e0f0415d9b9</S>
+      <S N="message">New user session</S>
+      <S N="SessionId">14dcce45-d1b1-69f1-1d51f912-74dd5155eb59</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651449600026</I64>
+      <S N="category">Bootstrap</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="timestamp">5/2/2022 12:00:00 AM</S>
+      <S N="userAgent">Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/100.0.4896.127 Safari/537.36</S>
+      <S N="tagId">tagId_7</S>
+      <S N="indexId">202205</S>
+      <S N="logId">14dcce45-20220502T000000026</S>
+    </MS>
+  </Obj>
+  <Obj RefId="19">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">bd751232-d8de-812a-792c6767-2e0f0415d9b9</S>
+      <S N="message">Loading: https://olainterpreting.com/ko/</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651449600028</I64>
+      <I64 N="height">1024</I64>
+      <S N="category">Bootstrap</S>
+      <S N="url">https://olainterpreting.com/ko/</S>
+      <S N="caller">document.body</S>
+      <S N="SessionId">14dcce45-d1b1-69f1-1d51f912-74dd5155eb59</S>
+      <S N="timestamp">5/2/2022 12:00:00 AM</S>
+      <I64 N="width">1024</I64>
+      <S N="siteVersion">1.1.25</S>
+      <S N="timezone">UTC-7</S>
+      <S N="tagId">tagId_1</S>
+      <S N="indexId">202205</S>
+      <S N="logId">14dcce45-20220502T000000028</S>
+    </MS>
+  </Obj>
+  <Obj RefId="20">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">9896cd1b-55a8-a840-7ca3a634-9f88ce10a99e</S>
+      <S N="message">New user session</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651506460140</I64>
+      <S N="category">Bootstrap</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="SessionId">178be4de-182d-2cd3-675fc960-4c9a90b64698</S>
+      <S N="timestamp">5/2/2022 3:47:40 PM</S>
+      <S N="BrewingCatsCoreVersion">1.13</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="userAgent">Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36</S>
+      <S N="tagId">tagId_7</S>
+      <S N="indexId">202205</S>
+      <S N="logId">178be4de-20220502T154740140</S>
+    </MS>
+  </Obj>
+  <Obj RefId="21">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">9896cd1b-55a8-a840-7ca3a634-9f88ce10a99e</S>
+      <S N="message">Loading: https://brewingcats.com/posts/projects/merchandise/nft/lottery/</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651506460141</I64>
+      <I64 N="height">1361</I64>
+      <S N="category">Bootstrap</S>
+      <S N="url">https://brewingcats.com/posts/projects/merchandise/nft/lottery/</S>
+      <S N="caller">document.body</S>
+      <S N="SessionId">178be4de-182d-2cd3-675fc960-4c9a90b64698</S>
+      <S N="timestamp">5/2/2022 3:47:40 PM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <I64 N="width">2560</I64>
+      <S N="siteVersion">3.28.28</S>
+      <S N="timezone">UTC-7</S>
+      <S N="tagId">tagId_1</S>
+      <S N="indexId">202205</S>
+      <S N="logId">178be4de-20220502T154740141</S>
+    </MS>
+  </Obj>
+  <Obj RefId="22">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">9896cd1b-55a8-a840-7ca3a634-9f88ce10a99e</S>
+      <S N="message">Carousel Component</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651506460159</I64>
+      <S N="category">ComponentSetup</S>
+      <S N="component">Carousel</S>
+      <S N="caller">component.carousel</S>
+      <S N="SessionId">178be4de-182d-2cd3-675fc960-4c9a90b64698</S>
+      <S N="timestamp">5/2/2022 3:47:40 PM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="tagId">tagId_11</S>
+      <S N="indexId">202205</S>
+      <S N="logId">178be4de-20220502T154740159</S>
+    </MS>
+  </Obj>
+  <Obj RefId="23">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">9896cd1b-55a8-a840-7ca3a634-9f88ce10a99e</S>
+      <S N="message">Carousel Component</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651506460166</I64>
+      <S N="category">ComponentSetup</S>
+      <S N="component">Carousel</S>
+      <S N="caller">component.carousel</S>
+      <S N="SessionId">178be4de-182d-2cd3-675fc960-4c9a90b64698</S>
+      <S N="timestamp">5/2/2022 3:47:40 PM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="tagId">tagId_11</S>
+      <S N="indexId">202205</S>
+      <S N="logId">178be4de-20220502T154740166</S>
+    </MS>
+  </Obj>
+  <Obj RefId="24">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="SiteViews">5038</I64>
+      <S N="type">Info</S>
+      <S N="ClientId">9896cd1b-55a8-a840-7ca3a634-9f88ce10a99e</S>
+      <S N="message">Loading: https://brewingcats.com/posts/projects/merchandise/nft/lottery/</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651506463351</I64>
+      <S N="category">Bootstrap</S>
+      <S N="caller">document.body</S>
+      <S N="SessionId">178be4de-182d-2cd3-675fc960-4c9a90b64698</S>
+      <S N="timestamp">5/2/2022 3:47:43 PM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <I64 N="PageViews">157</I64>
+      <I64 N="UserPageViews">1</I64>
+      <S N="tagId">tagId_12</S>
+      <S N="indexId">202205</S>
+      <S N="logId">178be4de-20220502T154743351</S>
+      <I64 N="UserSiteViews">1</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="25">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">51a1100a-15f2-58a9-fd3ce1fb-c87f1d7ac740</S>
+      <S N="message">New user session</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651511764679</I64>
+      <S N="category">Bootstrap</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="SessionId">1b04aefe-8291-96f8-8aa002e0-f481e3250293</S>
+      <S N="timestamp">5/2/2022 5:16:04 PM</S>
+      <S N="BrewingCatsCoreVersion">1.13</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="userAgent">Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)</S>
+      <S N="tagId">tagId_7</S>
+      <S N="indexId">202205</S>
+      <S N="logId">1b04aefe-20220502T171604679</S>
+    </MS>
+  </Obj>
+  <Obj RefId="26">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">51a1100a-15f2-58a9-fd3ce1fb-c87f1d7ac740</S>
+      <S N="message">Loading: https://brewingcats.com/posts/site/telemetry/</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651511764687</I64>
+      <I64 N="height">600</I64>
+      <S N="category">Bootstrap</S>
+      <S N="url">https://brewingcats.com/posts/site/telemetry/</S>
+      <S N="caller">document.body</S>
+      <S N="SessionId">1b04aefe-8291-96f8-8aa002e0-f481e3250293</S>
+      <S N="timestamp">5/2/2022 5:16:04 PM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <I64 N="width">800</I64>
+      <S N="siteVersion">3.28.28</S>
+      <S N="timezone">UTC+0</S>
+      <S N="tagId">tagId_1</S>
+      <S N="indexId">202205</S>
+      <S N="logId">1b04aefe-20220502T171604687</S>
+    </MS>
+  </Obj>
+  <Obj RefId="27">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">51a1100a-15f2-58a9-fd3ce1fb-c87f1d7ac740</S>
+      <S N="message">Tableau Component</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651511764789</I64>
+      <S N="category">ComponentSetup</S>
+      <S N="component">Tableau</S>
+      <S N="caller">component.tableau</S>
+      <S N="SessionId">1b04aefe-8291-96f8-8aa002e0-f481e3250293</S>
+      <S N="timestamp">5/2/2022 5:16:04 PM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="vizId">viz1613958994931</S>
+      <S N="tagId">tagId_j</S>
+      <S N="indexId">202205</S>
+      <S N="logId">1b04aefe-20220502T171604789</S>
+    </MS>
+  </Obj>
+  <Obj RefId="28">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">792c6767-2e0f-0415-d9b991b1-a37fb074054f</S>
+      <S N="message">New user session</S>
+      <S N="SessionId">1d51f912-74dd-5155-eb59bd75-1232d8de812a</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651363200027</I64>
+      <S N="category">Bootstrap</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="timestamp">5/1/2022 12:00:00 AM</S>
+      <S N="userAgent">Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)</S>
+      <S N="tagId">tagId_7</S>
+      <S N="indexId">202205</S>
+      <S N="logId">1d51f912-20220501T000000027</S>
+    </MS>
+  </Obj>
+  <Obj RefId="29">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">792c6767-2e0f-0415-d9b991b1-a37fb074054f</S>
+      <S N="message">Loading: https://olainterpreting.com/es/</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651363200029</I64>
+      <I64 N="height">732</I64>
+      <S N="category">Bootstrap</S>
+      <S N="url">https://olainterpreting.com/es/</S>
+      <S N="caller">document.body</S>
+      <S N="SessionId">1d51f912-74dd-5155-eb59bd75-1232d8de812a</S>
+      <S N="timestamp">5/1/2022 12:00:00 AM</S>
+      <I64 N="width">412</I64>
+      <S N="siteVersion">1.1.25</S>
+      <S N="timezone">UTC-7</S>
+      <S N="tagId">tagId_1</S>
+      <S N="indexId">202205</S>
+      <S N="logId">1d51f912-20220501T000000029</S>
+    </MS>
+  </Obj>
+  <Obj RefId="30">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">f60af5dd-3e5d-4ae0-c39b3743-e8ada8071d99</S>
+      <S N="message">New user session</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651391739673</I64>
+      <S N="category">Bootstrap</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="SessionId">2019b1ef-cb6f-fb3a-d690417a-4b113375dd6b</S>
+      <S N="timestamp">5/1/2022 7:55:39 AM</S>
+      <S N="BrewingCatsCoreVersion">1.13</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="userAgent">Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Safari/605.1.15 (Applebot/0.1; +http://www.apple.com/go/applebot)</S>
+      <S N="tagId">tagId_7</S>
+      <S N="indexId">202205</S>
+      <S N="logId">2019b1ef-20220501T075539673</S>
+    </MS>
+  </Obj>
+  <Obj RefId="31">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">f60af5dd-3e5d-4ae0-c39b3743-e8ada8071d99</S>
+      <S N="message">Loading: https://brewingcats.com/posts/instagram/</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651391739695</I64>
+      <I64 N="height">805</I64>
+      <S N="category">Bootstrap</S>
+      <S N="url">https://brewingcats.com/posts/instagram/</S>
+      <S N="caller">document.body</S>
+      <S N="SessionId">2019b1ef-cb6f-fb3a-d690417a-4b113375dd6b</S>
+      <S N="timestamp">5/1/2022 7:55:39 AM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <I64 N="width">1280</I64>
+      <S N="siteVersion">3.28.28</S>
+      <S N="timezone">UTC-7</S>
+      <S N="tagId">tagId_1</S>
+      <S N="indexId">202205</S>
+      <S N="logId">2019b1ef-20220501T075539695</S>
+    </MS>
+  </Obj>
+  <Obj RefId="32">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Warning</S>
+      <S N="ClientId">f60af5dd-3e5d-4ae0-c39b3743-e8ada8071d99</S>
+      <S N="message">Instagram entry not found on query params</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651391739696</I64>
+      <S N="category">ComponentSetup</S>
+      <S N="caller">autoinstagram</S>
+      <S N="SessionId">2019b1ef-cb6f-fb3a-d690417a-4b113375dd6b</S>
+      <S N="timestamp">5/1/2022 7:55:39 AM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="tagId">tagId_3</S>
+      <S N="indexId">202205</S>
+      <S N="logId">2019b1ef-20220501T075539696</S>
+    </MS>
+  </Obj>
+  <Obj RefId="33">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">f60af5dd-3e5d-4ae0-c39b3743-e8ada8071d99</S>
+      <S N="message">AutoInstagram Component</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651391739697</I64>
+      <S N="category">ComponentSetup</S>
+      <S N="component">AutoInstagram</S>
+      <S N="caller">component.autoinstagram</S>
+      <S N="SessionId">2019b1ef-cb6f-fb3a-d690417a-4b113375dd6b</S>
+      <S N="timestamp">5/1/2022 7:55:39 AM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="tagId">tagId_a</S>
+      <S N="indexId">202205</S>
+      <S N="logId">2019b1ef-20220501T075539697</S>
+    </MS>
+  </Obj>
+  <Obj RefId="34">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">9881341b-28a8-38ac-09ccd474-82b72df34346</S>
+      <S N="message">New user session</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651407557882</I64>
+      <S N="category">Bootstrap</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="SessionId">43590634-faf9-c4a3-2a4c75e1-95959521af92</S>
+      <S N="timestamp">5/1/2022 12:19:17 PM</S>
+      <S N="BrewingCatsCoreVersion">1.13</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="userAgent">Mozilla/5.0 (iPhone; CPU iPhone OS 15_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Mobile/15E148 Safari/604.1</S>
+      <S N="tagId">tagId_7</S>
+      <S N="indexId">202205</S>
+      <S N="logId">43590634-20220501T121917882</S>
+    </MS>
+  </Obj>
+  <Obj RefId="35">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">9881341b-28a8-38ac-09ccd474-82b72df34346</S>
+      <S N="message">Loading: https://brewingcats.com/posts/projects/gaming/botw/</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651407557901</I64>
+      <I64 N="height">1118</I64>
+      <S N="category">Bootstrap</S>
+      <S N="url">https://brewingcats.com/posts/projects/gaming/botw/</S>
+      <S N="caller">document.body</S>
+      <S N="SessionId">43590634-faf9-c4a3-2a4c75e1-95959521af92</S>
+      <S N="timestamp">5/1/2022 12:19:17 PM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <I64 N="width">660</I64>
+      <S N="siteVersion">3.28.28</S>
+      <S N="timezone">UTC-4</S>
+      <S N="tagId">tagId_1</S>
+      <S N="indexId">202205</S>
+      <S N="logId">43590634-20220501T121917901</S>
+    </MS>
+  </Obj>
+  <Obj RefId="36">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">9881341b-28a8-38ac-09ccd474-82b72df34346</S>
+      <S N="message">Tableau Component</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651407557952</I64>
+      <S N="category">ComponentSetup</S>
+      <S N="component">Tableau</S>
+      <S N="caller">component.tableau</S>
+      <S N="SessionId">43590634-faf9-c4a3-2a4c75e1-95959521af92</S>
+      <S N="timestamp">5/1/2022 12:19:17 PM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="vizId">viz1610177864652</S>
+      <S N="tagId">tagId_j</S>
+      <S N="indexId">202205</S>
+      <S N="logId">43590634-20220501T121917952</S>
+    </MS>
+  </Obj>
+  <Obj RefId="37">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">9881341b-28a8-38ac-09ccd474-82b72df34346</S>
+      <S N="message">Loading: https://brewingcats.com/posts/projects/software/botwsign/?text=Legend%20of%20Zelda%20BOTW</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651407568054</I64>
+      <I64 N="height">33</I64>
+      <S N="category">Bootstrap</S>
+      <S N="url">https://brewingcats.com/posts/projects/software/botwsign/?text=Legend%20of%20Zelda%20BOTW</S>
+      <S N="caller">document.body</S>
+      <S N="SessionId">43590634-faf9-c4a3-2a4c75e1-95959521af92</S>
+      <S N="timestamp">5/1/2022 12:19:28 PM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <I64 N="width">576</I64>
+      <S N="siteVersion">3.28.28</S>
+      <S N="timezone">UTC-4</S>
+      <S N="tagId">tagId_1</S>
+      <S N="indexId">202205</S>
+      <S N="logId">43590634-20220501T121928054</S>
+    </MS>
+  </Obj>
+  <Obj RefId="38">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">9881341b-28a8-38ac-09ccd474-82b72df34346</S>
+      <S N="message">Loading: https://brewingcats.com/posts/projects/gaming/botw/</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651407568064</I64>
+      <I64 N="height">1118</I64>
+      <S N="category">Bootstrap</S>
+      <S N="url">https://brewingcats.com/posts/projects/gaming/botw/</S>
+      <S N="caller">document.body</S>
+      <S N="SessionId">43590634-faf9-c4a3-2a4c75e1-95959521af92</S>
+      <S N="timestamp">5/1/2022 12:19:28 PM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <I64 N="width">660</I64>
+      <S N="siteVersion">3.28.28</S>
+      <S N="timezone">UTC-4</S>
+      <S N="tagId">tagId_1</S>
+      <S N="indexId">202205</S>
+      <S N="logId">43590634-20220501T121928064</S>
+    </MS>
+  </Obj>
+  <Obj RefId="39">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">9881341b-28a8-38ac-09ccd474-82b72df34346</S>
+      <S N="message">Tableau Component</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651407568068</I64>
+      <S N="category">ComponentSetup</S>
+      <S N="component">Tableau</S>
+      <S N="caller">component.tableau</S>
+      <S N="SessionId">43590634-faf9-c4a3-2a4c75e1-95959521af92</S>
+      <S N="timestamp">5/1/2022 12:19:28 PM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="vizId">viz1610177864652</S>
+      <S N="tagId">tagId_j</S>
+      <S N="indexId">202205</S>
+      <S N="logId">43590634-20220501T121928068</S>
+    </MS>
+  </Obj>
+  <Obj RefId="40">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">9881341b-28a8-38ac-09ccd474-82b72df34346</S>
+      <S N="message">BOTWBare Component</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651407568163</I64>
+      <S N="category">ComponentSetup</S>
+      <S N="component">BOTWBare</S>
+      <S N="caller">component.botwbare</S>
+      <S N="SessionId">43590634-faf9-c4a3-2a4c75e1-95959521af92</S>
+      <S N="timestamp">5/1/2022 12:19:28 PM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="style"></S>
+      <S N="tagId">tagId_b</S>
+      <S N="indexId">202205</S>
+      <S N="logId">43590634-20220501T121928163</S>
+    </MS>
+  </Obj>
+  <Obj RefId="41">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="SiteViews">5025</I64>
+      <S N="type">Info</S>
+      <S N="ClientId">9881341b-28a8-38ac-09ccd474-82b72df34346</S>
+      <S N="message">Loading: https://brewingcats.com/posts/projects/software/botwsign/?text=Legend%20of%20Zelda%20BOTW</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651407569879</I64>
+      <S N="category">Bootstrap</S>
+      <S N="caller">document.body</S>
+      <S N="SessionId">43590634-faf9-c4a3-2a4c75e1-95959521af92</S>
+      <S N="timestamp">5/1/2022 12:19:29 PM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <I64 N="PageViews">1780</I64>
+      <I64 N="UserPageViews">1</I64>
+      <S N="tagId">tagId_12</S>
+      <S N="indexId">202205</S>
+      <S N="logId">43590634-20220501T121929879</S>
+      <I64 N="UserSiteViews">1</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="42">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="SiteViews">5026</I64>
+      <S N="type">Info</S>
+      <S N="ClientId">9881341b-28a8-38ac-09ccd474-82b72df34346</S>
+      <S N="message">Loading: https://brewingcats.com/posts/projects/gaming/botw/</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651407569916</I64>
+      <S N="category">Bootstrap</S>
+      <S N="caller">document.body</S>
+      <S N="SessionId">43590634-faf9-c4a3-2a4c75e1-95959521af92</S>
+      <S N="timestamp">5/1/2022 12:19:29 PM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <I64 N="PageViews">949</I64>
+      <I64 N="UserPageViews">1</I64>
+      <S N="tagId">tagId_12</S>
+      <S N="indexId">202205</S>
+      <S N="logId">43590634-20220501T121929916</S>
+      <I64 N="UserSiteViews">2</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="43">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">9881341b-28a8-38ac-09ccd474-82b72df34346</S>
+      <S N="message">Loading: https://brewingcats.com/posts/projects/software/botwsign/?text=Legend%20of%20Zelda%20BOTW</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651407582917</I64>
+      <I64 N="height">33</I64>
+      <S N="category">Bootstrap</S>
+      <S N="url">https://brewingcats.com/posts/projects/software/botwsign/?text=Legend%20of%20Zelda%20BOTW</S>
+      <S N="caller">document.body</S>
+      <S N="SessionId">43590634-faf9-c4a3-2a4c75e1-95959521af92</S>
+      <S N="timestamp">5/1/2022 12:19:42 PM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <I64 N="width">947</I64>
+      <S N="siteVersion">3.28.28</S>
+      <S N="timezone">UTC-4</S>
+      <S N="tagId">tagId_1</S>
+      <S N="indexId">202205</S>
+      <S N="logId">43590634-20220501T121942917</S>
+    </MS>
+  </Obj>
+  <Obj RefId="44">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">9881341b-28a8-38ac-09ccd474-82b72df34346</S>
+      <S N="message">BOTWBare Component</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651407582928</I64>
+      <S N="category">ComponentSetup</S>
+      <S N="component">BOTWBare</S>
+      <S N="caller">component.botwbare</S>
+      <S N="SessionId">43590634-faf9-c4a3-2a4c75e1-95959521af92</S>
+      <S N="timestamp">5/1/2022 12:19:42 PM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="style"></S>
+      <S N="tagId">tagId_b</S>
+      <S N="indexId">202205</S>
+      <S N="logId">43590634-20220501T121942928</S>
+    </MS>
+  </Obj>
+  <Obj RefId="45">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="SiteViews">5028</I64>
+      <S N="type">Info</S>
+      <S N="ClientId">9881341b-28a8-38ac-09ccd474-82b72df34346</S>
+      <S N="message">Loading: https://brewingcats.com/posts/projects/software/botwsign/?text=Legend%20of%20Zelda%20BOTW</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651407584673</I64>
+      <S N="category">Bootstrap</S>
+      <S N="caller">document.body</S>
+      <S N="SessionId">43590634-faf9-c4a3-2a4c75e1-95959521af92</S>
+      <S N="timestamp">5/1/2022 12:19:44 PM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <I64 N="PageViews">1781</I64>
+      <I64 N="UserPageViews">2</I64>
+      <S N="tagId">tagId_12</S>
+      <S N="indexId">202205</S>
+      <S N="logId">43590634-20220501T121944673</S>
+      <I64 N="UserSiteViews">3</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="46">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">18cb286a-8213-c54b-38178ead-c14c6b74506b</S>
+      <S N="message">New user session</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651436690351</I64>
+      <S N="category">Bootstrap</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="SessionId">5310591e-e0f6-fe3b-90a191af-08645e48892b</S>
+      <S N="timestamp">5/1/2022 8:24:50 PM</S>
+      <S N="BrewingCatsCoreVersion">1.13</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="userAgent">Mozilla/5.0 (Linux; Android 9; moto e(6) plus) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Mobile Safari/537.36</S>
+      <S N="tagId">tagId_7</S>
+      <S N="indexId">202205</S>
+      <S N="logId">5310591e-20220501T202450351</S>
+    </MS>
+  </Obj>
+  <Obj RefId="47">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">18cb286a-8213-c54b-38178ead-c14c6b74506b</S>
+      <S N="message">Loading: https://brewingcats.com/es/posts/projects/software/polygonmaker/</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651436690363</I64>
+      <I64 N="height">755</I64>
+      <S N="category">Bootstrap</S>
+      <S N="url">https://brewingcats.com/es/posts/projects/software/polygonmaker/</S>
+      <S N="caller">document.body</S>
+      <S N="SessionId">5310591e-e0f6-fe3b-90a191af-08645e48892b</S>
+      <S N="timestamp">5/1/2022 8:24:50 PM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <I64 N="width">412</I64>
+      <S N="siteVersion">3.28.28</S>
+      <S N="timezone">UTC-3</S>
+      <S N="tagId">tagId_1</S>
+      <S N="indexId">202205</S>
+      <S N="logId">5310591e-20220501T202450363</S>
+    </MS>
+  </Obj>
+  <Obj RefId="48">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">18cb286a-8213-c54b-38178ead-c14c6b74506b</S>
+      <S N="message">Polygonmaker Component</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651436690545</I64>
+      <S N="category">ComponentSetup</S>
+      <S N="component">Polygonmaker</S>
+      <S N="caller">component.polygonmaker</S>
+      <S N="SessionId">5310591e-e0f6-fe3b-90a191af-08645e48892b</S>
+      <S N="timestamp">5/1/2022 8:24:50 PM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="tagId">tagId_g</S>
+      <S N="indexId">202205</S>
+      <S N="logId">5310591e-20220501T202450545</S>
+    </MS>
+  </Obj>
+  <Obj RefId="49">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="SiteViews">5035</I64>
+      <S N="type">Info</S>
+      <S N="ClientId">18cb286a-8213-c54b-38178ead-c14c6b74506b</S>
+      <S N="message">Loading: https://brewingcats.com/es/posts/projects/software/polygonmaker/</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651436694228</I64>
+      <S N="category">Bootstrap</S>
+      <S N="caller">document.body</S>
+      <S N="SessionId">5310591e-e0f6-fe3b-90a191af-08645e48892b</S>
+      <S N="timestamp">5/1/2022 8:24:54 PM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <I64 N="PageViews">233</I64>
+      <I64 N="UserPageViews">1</I64>
+      <S N="tagId">tagId_12</S>
+      <S N="indexId">202205</S>
+      <S N="logId">5310591e-20220501T202454228</S>
+      <I64 N="UserSiteViews">1</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="50">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">18cb286a-8213-c54b-38178ead-c14c6b74506b</S>
+      <S N="message">Loading: https://brewingcats.com/es/posts/projects/software/polygonmaker/</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651436697348</I64>
+      <I64 N="height">755</I64>
+      <S N="category">Bootstrap</S>
+      <S N="url">https://brewingcats.com/es/posts/projects/software/polygonmaker/</S>
+      <S N="caller">document.body</S>
+      <S N="SessionId">5310591e-e0f6-fe3b-90a191af-08645e48892b</S>
+      <S N="timestamp">5/1/2022 8:24:57 PM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <I64 N="width">412</I64>
+      <S N="siteVersion">3.28.28</S>
+      <S N="timezone">UTC-3</S>
+      <S N="tagId">tagId_1</S>
+      <S N="indexId">202205</S>
+      <S N="logId">5310591e-20220501T202457348</S>
+    </MS>
+  </Obj>
+  <Obj RefId="51">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">18cb286a-8213-c54b-38178ead-c14c6b74506b</S>
+      <S N="message">Polygonmaker Component</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651436697522</I64>
+      <S N="category">ComponentSetup</S>
+      <S N="component">Polygonmaker</S>
+      <S N="caller">component.polygonmaker</S>
+      <S N="SessionId">5310591e-e0f6-fe3b-90a191af-08645e48892b</S>
+      <S N="timestamp">5/1/2022 8:24:57 PM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="tagId">tagId_g</S>
+      <S N="indexId">202205</S>
+      <S N="logId">5310591e-20220501T202457522</S>
+    </MS>
+  </Obj>
+  <Obj RefId="52">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">812a792c-6767-2e0f-0415d9b9-91b1a37fb074</S>
+      <S N="message">New user session</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651363200027</I64>
+      <S N="category">Bootstrap</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="SessionId">69f11d51-f912-74dd-5155eb59-bd751232d8de</S>
+      <S N="timestamp">5/1/2022 12:00:00 AM</S>
+      <S N="BrewingCatsCoreVersion">1.13</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="userAgent">Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/100.0.4896.127 Safari/537.36</S>
+      <S N="tagId">tagId_7</S>
+      <S N="indexId">202205</S>
+      <S N="logId">69f11d51-20220501T000000027</S>
+    </MS>
+  </Obj>
+  <Obj RefId="53">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">812a792c-6767-2e0f-0415d9b9-91b1a37fb074</S>
+      <S N="message">Loading: https://brewingcats.com/posts/projects/merchandise/nft/lottery/</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651363200029</I64>
+      <I64 N="height">1024</I64>
+      <S N="category">Bootstrap</S>
+      <S N="url">https://brewingcats.com/posts/projects/merchandise/nft/lottery/</S>
+      <S N="caller">document.body</S>
+      <S N="SessionId">69f11d51-f912-74dd-5155eb59-bd751232d8de</S>
+      <S N="timestamp">5/1/2022 12:00:00 AM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <I64 N="width">1024</I64>
+      <S N="siteVersion">3.28.28</S>
+      <S N="timezone">UTC-7</S>
+      <S N="tagId">tagId_1</S>
+      <S N="indexId">202205</S>
+      <S N="logId">69f11d51-20220501T000000029</S>
+    </MS>
+  </Obj>
+  <Obj RefId="54">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">812a792c-6767-2e0f-0415d9b9-91b1a37fb074</S>
+      <S N="message">Carousel Component</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651363200030</I64>
+      <S N="category">ComponentSetup</S>
+      <S N="component">Carousel</S>
+      <S N="caller">component.carousel</S>
+      <S N="SessionId">69f11d51-f912-74dd-5155eb59-bd751232d8de</S>
+      <S N="timestamp">5/1/2022 12:00:00 AM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="tagId">tagId_11</S>
+      <S N="indexId">202205</S>
+      <S N="logId">69f11d51-20220501T000000030</S>
+    </MS>
+  </Obj>
+  <Obj RefId="55">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">812a792c-6767-2e0f-0415d9b9-91b1a37fb074</S>
+      <S N="message">Carousel Component</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651363200031</I64>
+      <S N="category">ComponentSetup</S>
+      <S N="component">Carousel</S>
+      <S N="caller">component.carousel</S>
+      <S N="SessionId">69f11d51-f912-74dd-5155eb59-bd751232d8de</S>
+      <S N="timestamp">5/1/2022 12:00:00 AM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="tagId">tagId_11</S>
+      <S N="indexId">202205</S>
+      <S N="logId">69f11d51-20220501T000000031</S>
+    </MS>
+  </Obj>
+  <Obj RefId="56">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="SiteViews">5022</I64>
+      <S N="type">Info</S>
+      <S N="ClientId">812a792c-6767-2e0f-0415d9b9-91b1a37fb074</S>
+      <S N="message">Loading: https://brewingcats.com/posts/site/changelog/</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651363200054</I64>
+      <S N="category">Bootstrap</S>
+      <S N="caller">document.body</S>
+      <S N="SessionId">69f11d51-f912-74dd-5155eb59-bd751232d8de</S>
+      <S N="timestamp">5/1/2022 12:00:00 AM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <I64 N="PageViews">83</I64>
+      <I64 N="UserPageViews">1</I64>
+      <S N="tagId">tagId_12</S>
+      <S N="indexId">202205</S>
+      <S N="logId">69f11d51-20220501T000000054</S>
+      <I64 N="UserSiteViews">1</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="57">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="SiteViews">5024</I64>
+      <S N="type">Info</S>
+      <S N="ClientId">812a792c-6767-2e0f-0415d9b9-91b1a37fb074</S>
+      <S N="message">Loading: https://brewingcats.com/posts/projects/merchandise/nft/lottery/</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651363200074</I64>
+      <S N="category">Bootstrap</S>
+      <S N="caller">document.body</S>
+      <S N="SessionId">69f11d51-f912-74dd-5155eb59-bd751232d8de</S>
+      <S N="timestamp">5/1/2022 12:00:00 AM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <I64 N="PageViews">155</I64>
+      <I64 N="UserPageViews">1</I64>
+      <S N="tagId">tagId_12</S>
+      <S N="indexId">202205</S>
+      <S N="logId">69f11d51-20220501T000000074</S>
+      <I64 N="UserSiteViews">1</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="58">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">6e05bd7b-2833-e2ef-4806cd39-47427c0b4b4c</S>
+      <S N="message">New user session</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651532619954</I64>
+      <S N="category">Bootstrap</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="SessionId">73457e24-ce2e-1f64-6261b0a8-b2ae39163d83</S>
+      <S N="timestamp">5/2/2022 11:03:39 PM</S>
+      <S N="BrewingCatsCoreVersion">1.13</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="userAgent">Mozilla/5.0 (Linux; Android 12; moto g pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Mobile Safari/537.36</S>
+      <S N="tagId">tagId_7</S>
+      <S N="indexId">202205</S>
+      <S N="logId">73457e24-20220502T230339954</S>
+    </MS>
+  </Obj>
+  <Obj RefId="59">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">6e05bd7b-2833-e2ef-4806cd39-47427c0b4b4c</S>
+      <S N="message">Loading: https://brewingcats.com/posts/projects/software/botwsign/?text=Legend%20of%20Zelda%20BOTW</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651532619962</I64>
+      <I64 N="height">33</I64>
+      <S N="category">Bootstrap</S>
+      <S N="url">https://brewingcats.com/posts/projects/software/botwsign/?text=Legend%20of%20Zelda%20BOTW</S>
+      <S N="caller">document.body</S>
+      <S N="SessionId">73457e24-ce2e-1f64-6261b0a8-b2ae39163d83</S>
+      <S N="timestamp">5/2/2022 11:03:39 PM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <I64 N="width">380</I64>
+      <S N="siteVersion">3.28.28</S>
+      <S N="timezone">UTC-4</S>
+      <S N="tagId">tagId_1</S>
+      <S N="indexId">202205</S>
+      <S N="logId">73457e24-20220502T230339962</S>
+    </MS>
+  </Obj>
+  <Obj RefId="60">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">6e05bd7b-2833-e2ef-4806cd39-47427c0b4b4c</S>
+      <S N="message">BOTWBare Component</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651532619986</I64>
+      <S N="category">ComponentSetup</S>
+      <S N="component">BOTWBare</S>
+      <S N="caller">component.botwbare</S>
+      <S N="SessionId">73457e24-ce2e-1f64-6261b0a8-b2ae39163d83</S>
+      <S N="timestamp">5/2/2022 11:03:39 PM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="style"></S>
+      <S N="tagId">tagId_b</S>
+      <S N="indexId">202205</S>
+      <S N="logId">73457e24-20220502T230339986</S>
+    </MS>
+  </Obj>
+  <Obj RefId="61">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="SiteViews">5045</I64>
+      <S N="type">Info</S>
+      <S N="ClientId">6e05bd7b-2833-e2ef-4806cd39-47427c0b4b4c</S>
+      <S N="message">Loading: https://brewingcats.com/posts/projects/software/botwsign/?text=Legend%20of%20Zelda%20BOTW</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651532624148</I64>
+      <S N="category">Bootstrap</S>
+      <S N="caller">document.body</S>
+      <S N="SessionId">73457e24-ce2e-1f64-6261b0a8-b2ae39163d83</S>
+      <S N="timestamp">5/2/2022 11:03:44 PM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <I64 N="PageViews">1783</I64>
+      <I64 N="UserPageViews">1</I64>
+      <S N="tagId">tagId_12</S>
+      <S N="indexId">202205</S>
+      <S N="logId">73457e24-20220502T230344148</S>
+      <I64 N="UserSiteViews">1</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="62">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">55fed0b0-5bb7-0b2e-6891eba8-8cf31e5cc8c4</S>
+      <S N="message">New user session</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651513746712</I64>
+      <S N="category">Bootstrap</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="SessionId">75ab4e4f-579a-79f7-1fe375ee-053423c17298</S>
+      <S N="timestamp">5/2/2022 5:49:06 PM</S>
+      <S N="BrewingCatsCoreVersion">1.13</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="userAgent">Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)</S>
+      <S N="tagId">tagId_7</S>
+      <S N="indexId">202205</S>
+      <S N="logId">75ab4e4f-20220502T174906712</S>
+    </MS>
+  </Obj>
+  <Obj RefId="63">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">55fed0b0-5bb7-0b2e-6891eba8-8cf31e5cc8c4</S>
+      <S N="message">Loading: https://brewingcats.com/posts/projects/gaming/botw/</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651513746722</I64>
+      <I64 N="height">600</I64>
+      <S N="category">Bootstrap</S>
+      <S N="url">https://brewingcats.com/posts/projects/gaming/botw/</S>
+      <S N="caller">document.body</S>
+      <S N="SessionId">75ab4e4f-579a-79f7-1fe375ee-053423c17298</S>
+      <S N="timestamp">5/2/2022 5:49:06 PM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <I64 N="width">800</I64>
+      <S N="siteVersion">3.28.28</S>
+      <S N="timezone">UTC+0</S>
+      <S N="tagId">tagId_1</S>
+      <S N="indexId">202205</S>
+      <S N="logId">75ab4e4f-20220502T174906722</S>
+    </MS>
+  </Obj>
+  <Obj RefId="64">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">55fed0b0-5bb7-0b2e-6891eba8-8cf31e5cc8c4</S>
+      <S N="message">Tableau Component</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651513746842</I64>
+      <S N="category">ComponentSetup</S>
+      <S N="component">Tableau</S>
+      <S N="caller">component.tableau</S>
+      <S N="SessionId">75ab4e4f-579a-79f7-1fe375ee-053423c17298</S>
+      <S N="timestamp">5/2/2022 5:49:06 PM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="vizId">viz1610177864652</S>
+      <S N="tagId">tagId_j</S>
+      <S N="indexId">202205</S>
+      <S N="logId">75ab4e4f-20220502T174906842</S>
+    </MS>
+  </Obj>
+  <Obj RefId="65">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">9c2f33a8-ddc2-e452-d5bf7e77-4f02ded990aa</S>
+      <S N="message">New user session</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651382376977</I64>
+      <S N="category">Bootstrap</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="SessionId">75b07feb-3b8d-74be-59e56d4f-bdd8d59ad02b</S>
+      <S N="timestamp">5/1/2022 5:19:36 AM</S>
+      <S N="BrewingCatsCoreVersion">1.13</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="userAgent">Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/79.0.3945.0 Safari/537.36</S>
+      <S N="tagId">tagId_7</S>
+      <S N="indexId">202205</S>
+      <S N="logId">75b07feb-20220501T051936977</S>
+    </MS>
+  </Obj>
+  <Obj RefId="66">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">9c2f33a8-ddc2-e452-d5bf7e77-4f02ded990aa</S>
+      <S N="message">Loading: https://brewingcats.com/posts/projects/software/botwsign/?text=Legend%20of%20Zelda%20BOTW</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651382376998</I64>
+      <I64 N="height">24</I64>
+      <S N="category">Bootstrap</S>
+      <S N="url">https://brewingcats.com/posts/projects/software/botwsign/?text=Legend%20of%20Zelda%20BOTW</S>
+      <S N="caller">document.body</S>
+      <S N="SessionId">75b07feb-3b8d-74be-59e56d4f-bdd8d59ad02b</S>
+      <S N="timestamp">5/1/2022 5:19:36 AM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <I64 N="width">758</I64>
+      <S N="siteVersion">3.28.28</S>
+      <S N="timezone">UTC+0</S>
+      <S N="tagId">tagId_1</S>
+      <S N="indexId">202205</S>
+      <S N="logId">75b07feb-20220501T051936998</S>
+    </MS>
+  </Obj>
+  <Obj RefId="67">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">9c2f33a8-ddc2-e452-d5bf7e77-4f02ded990aa</S>
+      <S N="message">BOTWBare Component</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651382377182</I64>
+      <S N="category">ComponentSetup</S>
+      <S N="component">BOTWBare</S>
+      <S N="caller">component.botwbare</S>
+      <S N="SessionId">75b07feb-3b8d-74be-59e56d4f-bdd8d59ad02b</S>
+      <S N="timestamp">5/1/2022 5:19:37 AM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="style"></S>
+      <S N="tagId">tagId_b</S>
+      <S N="indexId">202205</S>
+      <S N="logId">75b07feb-20220501T051937182</S>
+    </MS>
+  </Obj>
+  <Obj RefId="68">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">d8d763a6-2388-2bc0-f4d5329f-f85e7286f972</S>
+      <S N="message">New user session</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651525931789</I64>
+      <S N="category">Bootstrap</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="SessionId">7feeb3ab-2b28-c6af-92e52f96-27f1a2c00f4b</S>
+      <S N="timestamp">5/2/2022 9:12:11 PM</S>
+      <S N="BrewingCatsCoreVersion">1.13</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="userAgent">Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)</S>
+      <S N="tagId">tagId_7</S>
+      <S N="indexId">202205</S>
+      <S N="logId">7feeb3ab-20220502T211211789</S>
+    </MS>
+  </Obj>
+  <Obj RefId="69">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">d8d763a6-2388-2bc0-f4d5329f-f85e7286f972</S>
+      <S N="message">Loading: https://brewingcats.com/posts/projects/merchandise/nft/lottery/</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651525931795</I64>
+      <I64 N="height">600</I64>
+      <S N="category">Bootstrap</S>
+      <S N="url">https://brewingcats.com/posts/projects/merchandise/nft/lottery/</S>
+      <S N="caller">document.body</S>
+      <S N="SessionId">7feeb3ab-2b28-c6af-92e52f96-27f1a2c00f4b</S>
+      <S N="timestamp">5/2/2022 9:12:11 PM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <I64 N="width">800</I64>
+      <S N="siteVersion">3.28.28</S>
+      <S N="timezone">UTC+0</S>
+      <S N="tagId">tagId_1</S>
+      <S N="indexId">202205</S>
+      <S N="logId">7feeb3ab-20220502T211211795</S>
+    </MS>
+  </Obj>
+  <Obj RefId="70">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">d8d763a6-2388-2bc0-f4d5329f-f85e7286f972</S>
+      <S N="message">Carousel Component</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651525931962</I64>
+      <S N="category">ComponentSetup</S>
+      <S N="component">Carousel</S>
+      <S N="caller">component.carousel</S>
+      <S N="SessionId">7feeb3ab-2b28-c6af-92e52f96-27f1a2c00f4b</S>
+      <S N="timestamp">5/2/2022 9:12:11 PM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="tagId">tagId_11</S>
+      <S N="indexId">202205</S>
+      <S N="logId">7feeb3ab-20220502T211211962</S>
+    </MS>
+  </Obj>
+  <Obj RefId="71">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">d8d763a6-2388-2bc0-f4d5329f-f85e7286f972</S>
+      <S N="message">Carousel Component</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651525931987</I64>
+      <S N="category">ComponentSetup</S>
+      <S N="component">Carousel</S>
+      <S N="caller">component.carousel</S>
+      <S N="SessionId">7feeb3ab-2b28-c6af-92e52f96-27f1a2c00f4b</S>
+      <S N="timestamp">5/2/2022 9:12:11 PM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="tagId">tagId_11</S>
+      <S N="indexId">202205</S>
+      <S N="logId">7feeb3ab-20220502T211211987</S>
+    </MS>
+  </Obj>
+  <Obj RefId="72">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">254d9171-9b55-e664-8f065423-5aba7c6b622e</S>
+      <S N="message">New user session</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651393563773</I64>
+      <S N="category">Bootstrap</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="SessionId">91454063-5e63-df28-3a0d9629-0ee44ea195ec</S>
+      <S N="timestamp">5/1/2022 8:26:03 AM</S>
+      <S N="BrewingCatsCoreVersion">1.13</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="userAgent">Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)</S>
+      <S N="tagId">tagId_7</S>
+      <S N="indexId">202205</S>
+      <S N="logId">91454063-20220501T082603773</S>
+    </MS>
+  </Obj>
+  <Obj RefId="73">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">254d9171-9b55-e664-8f065423-5aba7c6b622e</S>
+      <S N="message">Loading: https://brewingcats.com/posts/site/changelog/</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651393563779</I64>
+      <I64 N="height">600</I64>
+      <S N="category">Bootstrap</S>
+      <S N="url">https://brewingcats.com/posts/site/changelog/</S>
+      <S N="caller">document.body</S>
+      <S N="SessionId">91454063-5e63-df28-3a0d9629-0ee44ea195ec</S>
+      <S N="timestamp">5/1/2022 8:26:03 AM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <I64 N="width">800</I64>
+      <S N="siteVersion">3.28.28</S>
+      <S N="timezone">UTC+0</S>
+      <S N="tagId">tagId_1</S>
+      <S N="indexId">202205</S>
+      <S N="logId">91454063-20220501T082603779</S>
+    </MS>
+  </Obj>
+  <Obj RefId="74">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">254d9171-9b55-e664-8f065423-5aba7c6b622e</S>
+      <S N="message">AirTable Component</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651393563865</I64>
+      <S N="category">ComponentSetup</S>
+      <S N="component">AirTable</S>
+      <S N="caller">component.airtable</S>
+      <S N="SessionId">91454063-5e63-df28-3a0d9629-0ee44ea195ec</S>
+      <S N="timestamp">5/1/2022 8:26:03 AM</S>
+      <S N="tableId">shrWQhQXmYlzI3bdF</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="tagId">tagId_10</S>
+      <S N="indexId">202205</S>
+      <S N="logId">91454063-20220501T082603865</S>
+    </MS>
+  </Obj>
+  <Obj RefId="75">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">d1b169f1-1d51-f912-74dd5155-eb59bd751232</S>
+      <S N="message">New user session</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651449600013</I64>
+      <S N="category">Bootstrap</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="SessionId">982a1557-64be-f535-662efe7f-86a214dcce45</S>
+      <S N="timestamp">5/2/2022 12:00:00 AM</S>
+      <S N="BrewingCatsCoreVersion">1.13</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="userAgent">Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)</S>
+      <S N="tagId">tagId_7</S>
+      <S N="indexId">202205</S>
+      <S N="logId">982a1557-20220502T000000013</S>
+    </MS>
+  </Obj>
+  <Obj RefId="76">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">d1b169f1-1d51-f912-74dd5155-eb59bd751232</S>
+      <S N="message">Loading: https://brewingcats.com/posts/projects/merchandise/nft/lottery/</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651449600015</I64>
+      <I64 N="height">732</I64>
+      <S N="category">Bootstrap</S>
+      <S N="url">https://brewingcats.com/posts/projects/merchandise/nft/lottery/</S>
+      <S N="caller">document.body</S>
+      <S N="SessionId">982a1557-64be-f535-662efe7f-86a214dcce45</S>
+      <S N="timestamp">5/2/2022 12:00:00 AM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <I64 N="width">412</I64>
+      <S N="siteVersion">3.28.28</S>
+      <S N="timezone">UTC-7</S>
+      <S N="tagId">tagId_1</S>
+      <S N="indexId">202205</S>
+      <S N="logId">982a1557-20220502T000000015</S>
+    </MS>
+  </Obj>
+  <Obj RefId="77">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">d1b169f1-1d51-f912-74dd5155-eb59bd751232</S>
+      <S N="message">Carousel Component</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651449600016</I64>
+      <S N="category">ComponentSetup</S>
+      <S N="component">Carousel</S>
+      <S N="caller">component.carousel</S>
+      <S N="SessionId">982a1557-64be-f535-662efe7f-86a214dcce45</S>
+      <S N="timestamp">5/2/2022 12:00:00 AM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="tagId">tagId_11</S>
+      <S N="indexId">202205</S>
+      <S N="logId">982a1557-20220502T000000016</S>
+    </MS>
+  </Obj>
+  <Obj RefId="78">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">d1b169f1-1d51-f912-74dd5155-eb59bd751232</S>
+      <S N="message">Carousel Component</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651449600017</I64>
+      <S N="category">ComponentSetup</S>
+      <S N="component">Carousel</S>
+      <S N="caller">component.carousel</S>
+      <S N="SessionId">982a1557-64be-f535-662efe7f-86a214dcce45</S>
+      <S N="timestamp">5/2/2022 12:00:00 AM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="tagId">tagId_11</S>
+      <S N="indexId">202205</S>
+      <S N="logId">982a1557-20220502T000000017</S>
+    </MS>
+  </Obj>
+  <Obj RefId="79">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">d1b169f1-1d51-f912-74dd5155-eb59bd751232</S>
+      <S N="message">New user session</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651525200013</I64>
+      <S N="category">Bootstrap</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="SessionId">982a1557-64be-f535-662efe7f-86a214dcce45</S>
+      <S N="timestamp">5/2/2022 9:00:00 PM</S>
+      <S N="BrewingCatsCoreVersion">1.13</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="userAgent">Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Safari/537.36</S>
+      <S N="tagId">tagId_7</S>
+      <S N="indexId">202205</S>
+      <S N="logId">982a1557-20220502T210000013</S>
+    </MS>
+  </Obj>
+  <Obj RefId="80">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">d1b169f1-1d51-f912-74dd5155-eb59bd751232</S>
+      <S N="message">Loading: https://brewingcats.com/es/</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651525200015</I64>
+      <I64 N="height">1024</I64>
+      <S N="category">Bootstrap</S>
+      <S N="url">https://brewingcats.com/es/</S>
+      <S N="caller">document.body</S>
+      <S N="SessionId">982a1557-64be-f535-662efe7f-86a214dcce45</S>
+      <S N="timestamp">5/2/2022 9:00:00 PM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <I64 N="width">1024</I64>
+      <S N="siteVersion">3.28.28</S>
+      <S N="timezone">UTC-7</S>
+      <S N="tagId">tagId_1</S>
+      <S N="indexId">202205</S>
+      <S N="logId">982a1557-20220502T210000015</S>
+    </MS>
+  </Obj>
+  <Obj RefId="81">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">53ed679a-c36c-5d74-59cce7ad-c300b9299750</S>
+      <S N="message">New user session</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651424704240</I64>
+      <S N="category">Bootstrap</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="SessionId">ba1866dc-dc32-4c13-64ef93bb-9cfb62c220a4</S>
+      <S N="timestamp">5/1/2022 5:05:04 PM</S>
+      <S N="BrewingCatsCoreVersion">1.13</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="userAgent">Mozilla/5.0 (Linux; Android 12) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Mobile Safari/537.36</S>
+      <S N="tagId">tagId_7</S>
+      <S N="indexId">202205</S>
+      <S N="logId">ba1866dc-20220501T170504240</S>
+    </MS>
+  </Obj>
+  <Obj RefId="82">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">53ed679a-c36c-5d74-59cce7ad-c300b9299750</S>
+      <S N="message">Loading: https://brewingcats.com/</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651424704245</I64>
+      <I64 N="height">569</I64>
+      <S N="category">Bootstrap</S>
+      <S N="url">https://brewingcats.com/</S>
+      <S N="caller">document.body</S>
+      <S N="SessionId">ba1866dc-dc32-4c13-64ef93bb-9cfb62c220a4</S>
+      <S N="timestamp">5/1/2022 5:05:04 PM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <I64 N="width">360</I64>
+      <S N="siteVersion">3.28.28</S>
+      <S N="timezone">UTC+3</S>
+      <S N="tagId">tagId_1</S>
+      <S N="indexId">202205</S>
+      <S N="logId">ba1866dc-20220501T170504245</S>
+    </MS>
+  </Obj>
+  <Obj RefId="83">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">5aaf3280-4743-8f4b-0447f577-14cc936cfd6e</S>
+      <S N="message">New user session</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651417181045</I64>
+      <S N="category">Bootstrap</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="SessionId">d29b23c2-dfb9-5b75-581902b3-53638e3c4e6b</S>
+      <S N="timestamp">5/1/2022 2:59:41 PM</S>
+      <S N="BrewingCatsCoreVersion">1.13</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="userAgent">Mozilla/5.0 (Linux; Android 10; SM-G960F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Mobile Safari/537.36</S>
+      <S N="tagId">tagId_7</S>
+      <S N="indexId">202205</S>
+      <S N="logId">d29b23c2-20220501T145941045</S>
+    </MS>
+  </Obj>
+  <Obj RefId="84">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">5aaf3280-4743-8f4b-0447f577-14cc936cfd6e</S>
+      <S N="message">Loading: https://brewingcats.com/posts/projects/software/botwsign/?text=Legend%20of%20Zelda%20BOTW</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651417181054</I64>
+      <I64 N="height">33</I64>
+      <S N="category">Bootstrap</S>
+      <S N="url">https://brewingcats.com/posts/projects/software/botwsign/?text=Legend%20of%20Zelda%20BOTW</S>
+      <S N="caller">document.body</S>
+      <S N="SessionId">d29b23c2-dfb9-5b75-581902b3-53638e3c4e6b</S>
+      <S N="timestamp">5/1/2022 2:59:41 PM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <I64 N="width">576</I64>
+      <S N="siteVersion">3.28.28</S>
+      <S N="timezone">UTC+2</S>
+      <S N="tagId">tagId_1</S>
+      <S N="indexId">202205</S>
+      <S N="logId">d29b23c2-20220501T145941054</S>
+    </MS>
+  </Obj>
+  <Obj RefId="85">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">5aaf3280-4743-8f4b-0447f577-14cc936cfd6e</S>
+      <S N="message">Loading: https://brewingcats.com/posts/projects/gaming/botw/</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651417181421</I64>
+      <I64 N="height">1122</I64>
+      <S N="category">Bootstrap</S>
+      <S N="url">https://brewingcats.com/posts/projects/gaming/botw/</S>
+      <S N="caller">document.body</S>
+      <S N="SessionId">d29b23c2-dfb9-5b75-581902b3-53638e3c4e6b</S>
+      <S N="timestamp">5/1/2022 2:59:41 PM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <I64 N="width">660</I64>
+      <S N="siteVersion">3.28.28</S>
+      <S N="timezone">UTC+2</S>
+      <S N="tagId">tagId_1</S>
+      <S N="indexId">202205</S>
+      <S N="logId">d29b23c2-20220501T145941421</S>
+    </MS>
+  </Obj>
+  <Obj RefId="86">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">5aaf3280-4743-8f4b-0447f577-14cc936cfd6e</S>
+      <S N="message">Tableau Component</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651417181541</I64>
+      <S N="category">ComponentSetup</S>
+      <S N="component">Tableau</S>
+      <S N="caller">component.tableau</S>
+      <S N="SessionId">d29b23c2-dfb9-5b75-581902b3-53638e3c4e6b</S>
+      <S N="timestamp">5/1/2022 2:59:41 PM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="vizId">viz1610177864652</S>
+      <S N="tagId">tagId_j</S>
+      <S N="indexId">202205</S>
+      <S N="logId">d29b23c2-20220501T145941541</S>
+    </MS>
+  </Obj>
+  <Obj RefId="87">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">5aaf3280-4743-8f4b-0447f577-14cc936cfd6e</S>
+      <S N="message">BOTWBare Component</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651417181565</I64>
+      <S N="category">ComponentSetup</S>
+      <S N="component">BOTWBare</S>
+      <S N="caller">component.botwbare</S>
+      <S N="SessionId">d29b23c2-dfb9-5b75-581902b3-53638e3c4e6b</S>
+      <S N="timestamp">5/1/2022 2:59:41 PM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="style"></S>
+      <S N="tagId">tagId_b</S>
+      <S N="indexId">202205</S>
+      <S N="logId">d29b23c2-20220501T145941565</S>
+    </MS>
+  </Obj>
+  <Obj RefId="88">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">5aaf3280-4743-8f4b-0447f577-14cc936cfd6e</S>
+      <S N="message">Loading: https://brewingcats.com/posts/projects/software/botwsign/?text=Legend%20of%20Zelda%20BOTW</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651417189191</I64>
+      <I64 N="height">33</I64>
+      <S N="category">Bootstrap</S>
+      <S N="url">https://brewingcats.com/posts/projects/software/botwsign/?text=Legend%20of%20Zelda%20BOTW</S>
+      <S N="caller">document.body</S>
+      <S N="SessionId">d29b23c2-dfb9-5b75-581902b3-53638e3c4e6b</S>
+      <S N="timestamp">5/1/2022 2:59:49 PM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <I64 N="width">947</I64>
+      <S N="siteVersion">3.28.28</S>
+      <S N="timezone">UTC+2</S>
+      <S N="tagId">tagId_1</S>
+      <S N="indexId">202205</S>
+      <S N="logId">d29b23c2-20220501T145949191</S>
+    </MS>
+  </Obj>
+  <Obj RefId="89">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">5aaf3280-4743-8f4b-0447f577-14cc936cfd6e</S>
+      <S N="message">BOTWBare Component</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651417189427</I64>
+      <S N="category">ComponentSetup</S>
+      <S N="component">BOTWBare</S>
+      <S N="caller">component.botwbare</S>
+      <S N="SessionId">d29b23c2-dfb9-5b75-581902b3-53638e3c4e6b</S>
+      <S N="timestamp">5/1/2022 2:59:49 PM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="style"></S>
+      <S N="tagId">tagId_b</S>
+      <S N="indexId">202205</S>
+      <S N="logId">d29b23c2-20220501T145949427</S>
+    </MS>
+  </Obj>
+  <Obj RefId="90">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="SiteViews">5030</I64>
+      <S N="type">Info</S>
+      <S N="ClientId">5aaf3280-4743-8f4b-0447f577-14cc936cfd6e</S>
+      <S N="message">Loading: https://brewingcats.com/posts/projects/software/botwsign/?text=Legend%20of%20Zelda%20BOTW</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651417191333</I64>
+      <S N="category">Bootstrap</S>
+      <S N="caller">document.body</S>
+      <S N="SessionId">d29b23c2-dfb9-5b75-581902b3-53638e3c4e6b</S>
+      <S N="timestamp">5/1/2022 2:59:51 PM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <I64 N="PageViews">1782</I64>
+      <I64 N="UserPageViews">1</I64>
+      <S N="tagId">tagId_12</S>
+      <S N="indexId">202205</S>
+      <S N="logId">d29b23c2-20220501T145951333</S>
+      <I64 N="UserSiteViews">1</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="91">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="SiteViews">5030</I64>
+      <S N="type">Info</S>
+      <S N="ClientId">5aaf3280-4743-8f4b-0447f577-14cc936cfd6e</S>
+      <S N="message">Loading: https://brewingcats.com/posts/projects/gaming/botw/</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651417192250</I64>
+      <S N="category">Bootstrap</S>
+      <S N="caller">document.body</S>
+      <S N="SessionId">d29b23c2-dfb9-5b75-581902b3-53638e3c4e6b</S>
+      <S N="timestamp">5/1/2022 2:59:52 PM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <I64 N="PageViews">950</I64>
+      <I64 N="UserPageViews">1</I64>
+      <S N="tagId">tagId_12</S>
+      <S N="indexId">202205</S>
+      <S N="logId">d29b23c2-20220501T145952250</S>
+      <I64 N="UserSiteViews">2</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="92">
+    <TNRef RefId="0" />
+    <MS>
+      <I64 N="SiteViews">5030</I64>
+      <S N="type">Info</S>
+      <S N="ClientId">5aaf3280-4743-8f4b-0447f577-14cc936cfd6e</S>
+      <S N="message">Loading: https://brewingcats.com/posts/projects/software/botwsign/?text=Legend%20of%20Zelda%20BOTW</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651417192674</I64>
+      <S N="category">Bootstrap</S>
+      <S N="caller">document.body</S>
+      <S N="SessionId">d29b23c2-dfb9-5b75-581902b3-53638e3c4e6b</S>
+      <S N="timestamp">5/1/2022 2:59:52 PM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <I64 N="PageViews">1782</I64>
+      <I64 N="UserPageViews">2</I64>
+      <S N="tagId">tagId_12</S>
+      <S N="indexId">202205</S>
+      <S N="logId">d29b23c2-20220501T145952674</S>
+      <I64 N="UserSiteViews">3</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="93">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">f91274dd-5155-eb59-bd751232-d8de812a792c</S>
+      <S N="message">New user session</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651536000094</I64>
+      <S N="category">Bootstrap</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="SessionId">f535662e-fe7f-86a2-14dcce45-d1b169f11d51</S>
+      <S N="timestamp">5/3/2022 12:00:00 AM</S>
+      <S N="BrewingCatsCoreVersion">1.13</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="userAgent">Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)</S>
+      <S N="tagId">tagId_7</S>
+      <S N="indexId">202205</S>
+      <S N="logId">f535662e-20220503T000000094</S>
+    </MS>
+  </Obj>
+  <Obj RefId="94">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">f91274dd-5155-eb59-bd751232-d8de812a792c</S>
+      <S N="message">Loading: https://brewingcats.com/posts/projects/gaming/botw/</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651536000096</I64>
+      <I64 N="height">1173</I64>
+      <S N="category">Bootstrap</S>
+      <S N="url">https://brewingcats.com/posts/projects/gaming/botw/</S>
+      <S N="caller">document.body</S>
+      <S N="SessionId">f535662e-fe7f-86a2-14dcce45-d1b169f11d51</S>
+      <S N="timestamp">5/3/2022 12:00:00 AM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <I64 N="width">660</I64>
+      <S N="siteVersion">3.28.28</S>
+      <S N="timezone">UTC-7</S>
+      <S N="tagId">tagId_1</S>
+      <S N="indexId">202205</S>
+      <S N="logId">f535662e-20220503T000000096</S>
+    </MS>
+  </Obj>
+  <Obj RefId="95">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">f91274dd-5155-eb59-bd751232-d8de812a792c</S>
+      <S N="message">Tableau Component</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651536000097</I64>
+      <S N="category">ComponentSetup</S>
+      <S N="component">Tableau</S>
+      <S N="caller">component.tableau</S>
+      <S N="SessionId">f535662e-fe7f-86a2-14dcce45-d1b169f11d51</S>
+      <S N="timestamp">5/3/2022 12:00:00 AM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="vizId">viz1610177864652</S>
+      <S N="tagId">tagId_j</S>
+      <S N="indexId">202205</S>
+      <S N="logId">f535662e-20220503T000000097</S>
+    </MS>
+  </Obj>
+  <Obj RefId="96">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ClientId">f91274dd-5155-eb59-bd751232-d8de812a792c</S>
+      <S N="message">BOTWBare Component</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="ticks">1651536000142</I64>
+      <S N="category">ComponentSetup</S>
+      <S N="component">BOTWBare</S>
+      <S N="caller">component.botwbare</S>
+      <S N="SessionId">f535662e-fe7f-86a2-14dcce45-d1b169f11d51</S>
+      <S N="timestamp">5/3/2022 12:00:00 AM</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="style"></S>
+      <S N="tagId">tagId_b</S>
+      <S N="indexId">202205</S>
+      <S N="logId">f535662e-20220503T000000142</S>
+    </MS>
+  </Obj>
+  <Obj RefId="97">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="userAgent">Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Safari/537.36</S>
+      <S N="logId">14dcce45-20220503T040000026</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="SessionId">14dcce45-d1b1-69f1-1d51f912-74dd5155eb59</S>
+      <S N="tagId">tagId_7</S>
+      <S N="timestamp">5/3/2022 4:00:00 AM</S>
+      <S N="indexId">202205</S>
+      <S N="BrewingCatsCoreVersion">1.13</S>
+      <S N="category">Bootstrap</S>
+      <I64 N="ticks">1651550400026</I64>
+      <S N="type">Info</S>
+      <S N="message">New user session</S>
+      <S N="ClientId">bd751232-d8de-812a-792c6767-2e0f0415d9b9</S>
+    </MS>
+  </Obj>
+  <Obj RefId="98">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="caller">document.body</S>
+      <S N="logId">14dcce45-20220503T040000028</S>
+      <I64 N="height">1024</I64>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="siteVersion">3.28.28</S>
+      <I64 N="width">1024</I64>
+      <S N="SessionId">14dcce45-d1b1-69f1-1d51f912-74dd5155eb59</S>
+      <S N="tagId">tagId_1</S>
+      <S N="timestamp">5/3/2022 4:00:00 AM</S>
+      <S N="indexId">202205</S>
+      <S N="timezone">UTC-7</S>
+      <S N="category">Bootstrap</S>
+      <I64 N="ticks">1651550400028</I64>
+      <S N="url">https://brewingcats.com/es/</S>
+      <S N="type">Info</S>
+      <S N="message">Loading: https://brewingcats.com/es/</S>
+      <S N="ClientId">bd751232-d8de-812a-792c6767-2e0f0415d9b9</S>
+    </MS>
+  </Obj>
+  <Obj RefId="99">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="caller">document.body</S>
+      <S N="logId">14dcce45-20220503T040000044</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="UserSiteViews">1</I64>
+      <S N="SessionId">14dcce45-d1b1-69f1-1d51f912-74dd5155eb59</S>
+      <I64 N="UserPageViews">1</I64>
+      <S N="tagId">tagId_12</S>
+      <S N="timestamp">5/3/2022 4:00:00 AM</S>
+      <S N="indexId">202205</S>
+      <I64 N="SiteViews">5049</I64>
+      <I64 N="PageViews">162</I64>
+      <S N="category">Bootstrap</S>
+      <I64 N="ticks">1651550400044</I64>
+      <S N="type">Info</S>
+      <S N="message">Loading: https://brewingcats.com/es/</S>
+      <S N="ClientId">bd751232-d8de-812a-792c6767-2e0f0415d9b9</S>
+    </MS>
+  </Obj>
+  <Obj RefId="100">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="userAgent">Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/537.36 (KHTML, like Gecko, Mediapartners-Google) Chrome/100.0.4896.127 Safari/537.36</S>
+      <S N="logId">412d2037-20220503T051908891</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="SessionId">412d2037-c54b-3e63-d9531e7b-350291c0d40d</S>
+      <S N="tagId">tagId_7</S>
+      <S N="timestamp">5/3/2022 5:19:08 AM</S>
+      <S N="indexId">202205</S>
+      <S N="BrewingCatsCoreVersion">1.13</S>
+      <S N="category">Bootstrap</S>
+      <I64 N="ticks">1651555148891</I64>
+      <S N="type">Info</S>
+      <S N="message">New user session</S>
+      <S N="ClientId">f6edd020-3aea-73e1-29d71547-cb928844d188</S>
+    </MS>
+  </Obj>
+  <Obj RefId="101">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="caller">document.body</S>
+      <S N="logId">412d2037-20220503T051908893</S>
+      <I64 N="height">1000</I64>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="siteVersion">3.28.28</S>
+      <I64 N="width">1600</I64>
+      <S N="SessionId">412d2037-c54b-3e63-d9531e7b-350291c0d40d</S>
+      <S N="tagId">tagId_1</S>
+      <S N="timestamp">5/3/2022 5:19:08 AM</S>
+      <S N="indexId">202205</S>
+      <S N="timezone">UTC-7</S>
+      <S N="category">Bootstrap</S>
+      <I64 N="ticks">1651555148893</I64>
+      <S N="url">http://brewingcats.com/</S>
+      <S N="type">Info</S>
+      <S N="message">Loading: http://brewingcats.com/</S>
+      <S N="ClientId">f6edd020-3aea-73e1-29d71547-cb928844d188</S>
+    </MS>
+  </Obj>
+  <Obj RefId="102">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="caller">document.body</S>
+      <S N="logId">412d2037-20220503T051908908</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="UserSiteViews">1</I64>
+      <S N="SessionId">412d2037-c54b-3e63-d9531e7b-350291c0d40d</S>
+      <I64 N="UserPageViews">1</I64>
+      <S N="tagId">tagId_12</S>
+      <S N="timestamp">5/3/2022 5:19:08 AM</S>
+      <S N="indexId">202205</S>
+      <I64 N="SiteViews">529</I64>
+      <I64 N="PageViews">516</I64>
+      <S N="category">Bootstrap</S>
+      <I64 N="ticks">1651555148908</I64>
+      <S N="type">Info</S>
+      <S N="message">Loading: http://brewingcats.com/</S>
+      <S N="ClientId">f6edd020-3aea-73e1-29d71547-cb928844d188</S>
+    </MS>
+  </Obj>
+  <Obj RefId="103">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="userAgent">Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/537.36 (KHTML, like Gecko, Mediapartners-Google) Chrome/100.0.4896.127 Safari/537.36</S>
+      <S N="logId">861379af-20220503T051923712</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="SessionId">861379af-3c9d-e99f-08615ccb-8db2b6e84549</S>
+      <S N="tagId">tagId_7</S>
+      <S N="timestamp">5/3/2022 5:19:23 AM</S>
+      <S N="indexId">202205</S>
+      <S N="BrewingCatsCoreVersion">1.13</S>
+      <S N="category">Bootstrap</S>
+      <I64 N="ticks">1651555163712</I64>
+      <S N="type">Info</S>
+      <S N="message">New user session</S>
+      <S N="ClientId">b00ec54f-e249-9978-1d64c9e4-cf017f50a9bc</S>
+    </MS>
+  </Obj>
+  <Obj RefId="104">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="caller">document.body</S>
+      <S N="logId">861379af-20220503T051923714</S>
+      <I64 N="height">768</I64>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="siteVersion">3.28.28</S>
+      <I64 N="width">1024</I64>
+      <S N="SessionId">861379af-3c9d-e99f-08615ccb-8db2b6e84549</S>
+      <S N="tagId">tagId_1</S>
+      <S N="timestamp">5/3/2022 5:19:23 AM</S>
+      <S N="indexId">202205</S>
+      <S N="timezone">UTC-7</S>
+      <S N="category">Bootstrap</S>
+      <I64 N="ticks">1651555163714</I64>
+      <S N="url">http://brewingcats.com/</S>
+      <S N="type">Info</S>
+      <S N="message">Loading: http://brewingcats.com/</S>
+      <S N="ClientId">b00ec54f-e249-9978-1d64c9e4-cf017f50a9bc</S>
+    </MS>
+  </Obj>
+  <Obj RefId="105">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="caller">document.body</S>
+      <S N="logId">861379af-20220503T051923737</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="UserSiteViews">1</I64>
+      <S N="SessionId">861379af-3c9d-e99f-08615ccb-8db2b6e84549</S>
+      <I64 N="UserPageViews">1</I64>
+      <S N="tagId">tagId_12</S>
+      <S N="timestamp">5/3/2022 5:19:23 AM</S>
+      <S N="indexId">202205</S>
+      <I64 N="SiteViews">529</I64>
+      <I64 N="PageViews">516</I64>
+      <S N="category">Bootstrap</S>
+      <I64 N="ticks">1651555163737</I64>
+      <S N="type">Info</S>
+      <S N="message">Loading: http://brewingcats.com/</S>
+      <S N="ClientId">b00ec54f-e249-9978-1d64c9e4-cf017f50a9bc</S>
+    </MS>
+  </Obj>
+  <Obj RefId="106">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="userAgent">Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/537.36 (KHTML, like Gecko; Mediapartners-Google) Chrome/100.0.4896.127 Mobile Safari/537.36</S>
+      <S N="logId">8eb5c723-20220503T051911227</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="SessionId">8eb5c723-17b5-8e58-b178431d-adb90675ce76</S>
+      <S N="tagId">tagId_7</S>
+      <S N="timestamp">5/3/2022 5:19:11 AM</S>
+      <S N="indexId">202205</S>
+      <S N="BrewingCatsCoreVersion">1.13</S>
+      <S N="category">Bootstrap</S>
+      <I64 N="ticks">1651555151227</I64>
+      <S N="type">Info</S>
+      <S N="message">New user session</S>
+      <S N="ClientId">be51c4e4-98d1-f0c4-e062e246-d77eb175adf9</S>
+    </MS>
+  </Obj>
+  <Obj RefId="107">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="caller">document.body</S>
+      <S N="logId">8eb5c723-20220503T051911229</S>
+      <I64 N="height">640</I64>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="siteVersion">3.28.28</S>
+      <I64 N="width">360</I64>
+      <S N="SessionId">8eb5c723-17b5-8e58-b178431d-adb90675ce76</S>
+      <S N="tagId">tagId_1</S>
+      <S N="timestamp">5/3/2022 5:19:11 AM</S>
+      <S N="indexId">202205</S>
+      <S N="timezone">UTC-7</S>
+      <S N="category">Bootstrap</S>
+      <I64 N="ticks">1651555151229</I64>
+      <S N="url">http://brewingcats.com/</S>
+      <S N="type">Info</S>
+      <S N="message">Loading: http://brewingcats.com/</S>
+      <S N="ClientId">be51c4e4-98d1-f0c4-e062e246-d77eb175adf9</S>
+    </MS>
+  </Obj>
+  <Obj RefId="108">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="caller">document.body</S>
+      <S N="logId">8eb5c723-20220503T051911254</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="UserSiteViews">1</I64>
+      <S N="SessionId">8eb5c723-17b5-8e58-b178431d-adb90675ce76</S>
+      <I64 N="UserPageViews">1</I64>
+      <S N="tagId">tagId_12</S>
+      <S N="timestamp">5/3/2022 5:19:11 AM</S>
+      <S N="indexId">202205</S>
+      <I64 N="SiteViews">528</I64>
+      <I64 N="PageViews">515</I64>
+      <S N="category">Bootstrap</S>
+      <I64 N="ticks">1651555151254</I64>
+      <S N="type">Info</S>
+      <S N="message">Loading: http://brewingcats.com/</S>
+      <S N="ClientId">be51c4e4-98d1-f0c4-e062e246-d77eb175adf9</S>
+    </MS>
+  </Obj>
+  <Obj RefId="109">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="userAgent">Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)</S>
+      <S N="logId">982a1557-20220503T000000013</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="SessionId">982a1557-64be-f535-662efe7f-86a214dcce45</S>
+      <S N="tagId">tagId_7</S>
+      <S N="timestamp">5/3/2022 12:00:00 AM</S>
+      <S N="indexId">202205</S>
+      <S N="BrewingCatsCoreVersion">1.13</S>
+      <S N="category">Bootstrap</S>
+      <I64 N="ticks">1651536000013</I64>
+      <S N="type">Info</S>
+      <S N="message">New user session</S>
+      <S N="ClientId">d1b169f1-1d51-f912-74dd5155-eb59bd751232</S>
+    </MS>
+  </Obj>
+  <Obj RefId="110">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="caller">document.body</S>
+      <S N="logId">982a1557-20220503T000000015</S>
+      <I64 N="height">732</I64>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="siteVersion">3.28.28</S>
+      <I64 N="width">412</I64>
+      <S N="SessionId">982a1557-64be-f535-662efe7f-86a214dcce45</S>
+      <S N="tagId">tagId_1</S>
+      <S N="timestamp">5/3/2022 12:00:00 AM</S>
+      <S N="indexId">202205</S>
+      <S N="timezone">UTC-7</S>
+      <S N="category">Bootstrap</S>
+      <I64 N="ticks">1651536000015</I64>
+      <S N="url">https://brewingcats.com/posts/projects/merchandise/nft/lottery/</S>
+      <S N="type">Info</S>
+      <S N="message">Loading: https://brewingcats.com/posts/projects/merchandise/nft/lottery/</S>
+      <S N="ClientId">d1b169f1-1d51-f912-74dd5155-eb59bd751232</S>
+    </MS>
+  </Obj>
+  <Obj RefId="111">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="caller">component.carousel</S>
+      <S N="logId">982a1557-20220503T000000016</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="SessionId">982a1557-64be-f535-662efe7f-86a214dcce45</S>
+      <S N="tagId">tagId_11</S>
+      <S N="timestamp">5/3/2022 12:00:00 AM</S>
+      <S N="indexId">202205</S>
+      <S N="component">Carousel</S>
+      <S N="category">ComponentSetup</S>
+      <I64 N="ticks">1651536000016</I64>
+      <S N="type">Info</S>
+      <S N="message">Carousel Component</S>
+      <S N="ClientId">d1b169f1-1d51-f912-74dd5155-eb59bd751232</S>
+    </MS>
+  </Obj>
+  <Obj RefId="112">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="caller">component.carousel</S>
+      <S N="logId">982a1557-20220503T000000017</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="SessionId">982a1557-64be-f535-662efe7f-86a214dcce45</S>
+      <S N="tagId">tagId_11</S>
+      <S N="timestamp">5/3/2022 12:00:00 AM</S>
+      <S N="indexId">202205</S>
+      <S N="component">Carousel</S>
+      <S N="category">ComponentSetup</S>
+      <I64 N="ticks">1651536000017</I64>
+      <S N="type">Info</S>
+      <S N="message">Carousel Component</S>
+      <S N="ClientId">d1b169f1-1d51-f912-74dd5155-eb59bd751232</S>
+    </MS>
+  </Obj>
+  <Obj RefId="113">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="userAgent">Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/537.36 (KHTML, like Gecko, Mediapartners-Google) Chrome/100.0.4896.127 Safari/537.36</S>
+      <S N="logId">cf7c87e2-20220503T051922282</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="SessionId">cf7c87e2-d890-d6e9-4d7cea2a-6d85c79b1081</S>
+      <S N="tagId">tagId_7</S>
+      <S N="timestamp">5/3/2022 5:19:22 AM</S>
+      <S N="indexId">202205</S>
+      <S N="BrewingCatsCoreVersion">1.13</S>
+      <S N="category">Bootstrap</S>
+      <I64 N="ticks">1651555162282</I64>
+      <S N="type">Info</S>
+      <S N="message">New user session</S>
+      <S N="ClientId">0201d33a-ee71-aeb5-31a0b9a4-ce714b8babc4</S>
+    </MS>
+  </Obj>
+  <Obj RefId="114">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="caller">document.body</S>
+      <S N="logId">cf7c87e2-20220503T051922284</S>
+      <I64 N="height">1000</I64>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="siteVersion">3.28.28</S>
+      <I64 N="width">1600</I64>
+      <S N="SessionId">cf7c87e2-d890-d6e9-4d7cea2a-6d85c79b1081</S>
+      <S N="tagId">tagId_1</S>
+      <S N="timestamp">5/3/2022 5:19:22 AM</S>
+      <S N="indexId">202205</S>
+      <S N="timezone">UTC-7</S>
+      <S N="category">Bootstrap</S>
+      <I64 N="ticks">1651555162284</I64>
+      <S N="url">http://brewingcats.com/</S>
+      <S N="type">Info</S>
+      <S N="message">Loading: http://brewingcats.com/</S>
+      <S N="ClientId">0201d33a-ee71-aeb5-31a0b9a4-ce714b8babc4</S>
+    </MS>
+  </Obj>
+  <Obj RefId="115">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="caller">document.body</S>
+      <S N="logId">cf7c87e2-20220503T051922285</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="UserSiteViews">1</I64>
+      <S N="SessionId">cf7c87e2-d890-d6e9-4d7cea2a-6d85c79b1081</S>
+      <I64 N="UserPageViews">1</I64>
+      <S N="tagId">tagId_12</S>
+      <S N="timestamp">5/3/2022 5:19:22 AM</S>
+      <S N="indexId">202205</S>
+      <I64 N="SiteViews">529</I64>
+      <I64 N="PageViews">516</I64>
+      <S N="category">Bootstrap</S>
+      <I64 N="ticks">1651555162285</I64>
+      <S N="type">Info</S>
+      <S N="message">Loading: http://brewingcats.com/</S>
+      <S N="ClientId">0201d33a-ee71-aeb5-31a0b9a4-ce714b8babc4</S>
+    </MS>
+  </Obj>
+  <Obj RefId="116">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="userAgent">Mozilla/5.0 (Linux; Android 4.0.4; Galaxy Nexus Build/IMM76B) AppleWebKit/537.36 (KHTML, like Gecko; Mediapartners-Google) Chrome/100.0.4896.127 Mobile Safari/537.36</S>
+      <S N="logId">e6655e2c-20220503T051922018</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="SessionId">e6655e2c-b759-b08e-7fb7aeb8-67eaed7485ac</S>
+      <S N="tagId">tagId_7</S>
+      <S N="timestamp">5/3/2022 5:19:22 AM</S>
+      <S N="indexId">202205</S>
+      <S N="BrewingCatsCoreVersion">1.13</S>
+      <S N="category">Bootstrap</S>
+      <I64 N="ticks">1651555162018</I64>
+      <S N="type">Info</S>
+      <S N="message">New user session</S>
+      <S N="ClientId">26b2ae9e-31c8-135b-1ad17330-6a0c356a810f</S>
+    </MS>
+  </Obj>
+  <Obj RefId="117">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="caller">document.body</S>
+      <S N="logId">e6655e2c-20220503T051922020</S>
+      <I64 N="height">640</I64>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="siteVersion">3.28.28</S>
+      <I64 N="width">360</I64>
+      <S N="SessionId">e6655e2c-b759-b08e-7fb7aeb8-67eaed7485ac</S>
+      <S N="tagId">tagId_1</S>
+      <S N="timestamp">5/3/2022 5:19:22 AM</S>
+      <S N="indexId">202205</S>
+      <S N="timezone">UTC-7</S>
+      <S N="category">Bootstrap</S>
+      <I64 N="ticks">1651555162020</I64>
+      <S N="url">http://brewingcats.com/</S>
+      <S N="type">Info</S>
+      <S N="message">Loading: http://brewingcats.com/</S>
+      <S N="ClientId">26b2ae9e-31c8-135b-1ad17330-6a0c356a810f</S>
+    </MS>
+  </Obj>
+  <Obj RefId="118">
+    <TNRef RefId="0" />
+    <MS>
+      <S N="caller">document.body</S>
+      <S N="logId">e6655e2c-20220503T051922022</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="client">BrewingCatsCore</S>
+      <I64 N="UserSiteViews">1</I64>
+      <S N="SessionId">e6655e2c-b759-b08e-7fb7aeb8-67eaed7485ac</S>
+      <I64 N="UserPageViews">1</I64>
+      <S N="tagId">tagId_12</S>
+      <S N="timestamp">5/3/2022 5:19:22 AM</S>
+      <S N="indexId">202205</S>
+      <I64 N="SiteViews">528</I64>
+      <I64 N="PageViews">515</I64>
+      <S N="category">Bootstrap</S>
+      <I64 N="ticks">1651555162022</I64>
+      <S N="type">Info</S>
+      <S N="message">Loading: http://brewingcats.com/</S>
+      <S N="ClientId">26b2ae9e-31c8-135b-1ad17330-6a0c356a810f</S>
+    </MS>
+  </Obj>
+  <Obj RefId="119">
+    <TN RefId="1">
+      <T>System.Management.Automation.PSCustomObject</T>
+      <T>System.Object</T>
+    </TN>
+    <MS>
+      <S N="userAgent">Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32</S>
+      <S N="type">Info</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="timestamp">5/3/2022 5:56:29 AM</S>
+      <S N="logId">b67a55f6-20220503T055629336</S>
+      <S N="tagId">tagId_7</S>
+      <S N="caller">BrewingCatsCore.Control</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="ClientId">88d3e2f1-a767-56f8-357d2e53-66bfa743cb91</S>
+      <S N="BrewingCatsCoreVersion">1.13</S>
+      <S N="message">New user session</S>
+      <S N="SessionId">b67a55f6-8d10-0e57-ae5834cd-c84a04274b7e</S>
+      <I64 N="ticks">1651557389336</I64>
+      <S N="category">Bootstrap</S>
+      <S N="indexId">202205</S>
+    </MS>
+  </Obj>
+  <Obj RefId="120">
+    <TNRef RefId="1" />
+    <MS>
+      <I64 N="height">938</I64>
+      <S N="type">Info</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="timezone">UTC-7</S>
+      <S N="timestamp">5/3/2022 5:56:29 AM</S>
+      <S N="logId">b67a55f6-20220503T055629340</S>
+      <S N="tagId">tagId_1</S>
+      <S N="siteVersion">3.28.28</S>
+      <S N="caller">document.body</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="ClientId">88d3e2f1-a767-56f8-357d2e53-66bfa743cb91</S>
+      <S N="message">Loading: http://brewingcats.com/</S>
+      <S N="url">http://brewingcats.com/</S>
+      <S N="SessionId">b67a55f6-8d10-0e57-ae5834cd-c84a04274b7e</S>
+      <I64 N="ticks">1651557389340</I64>
+      <S N="category">Bootstrap</S>
+      <I64 N="width">1888</I64>
+      <S N="indexId">202205</S>
+    </MS>
+  </Obj>
+  <Obj RefId="121">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="timestamp">5/3/2022 5:56:29 AM</S>
+      <S N="logId">b67a55f6-20220503T055629935</S>
+      <S N="tagId">tagId_12</S>
+      <S N="caller">document.body</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="ClientId">88d3e2f1-a767-56f8-357d2e53-66bfa743cb91</S>
+      <S N="message">Loading: http://brewingcats.com/</S>
+      <S N="SessionId">b67a55f6-8d10-0e57-ae5834cd-c84a04274b7e</S>
+      <S N="indexId">202205</S>
+      <I64 N="ticks">1651557389935</I64>
+      <I64 N="UserSiteViews">1</I64>
+      <S N="category">Bootstrap</S>
+      <I64 N="SiteViews">530</I64>
+      <I64 N="PageViews">517</I64>
+      <I64 N="UserPageViews">1</I64>
+    </MS>
+  </Obj>
+  <Obj RefId="122">
+    <TNRef RefId="1" />
+    <MS>
+      <S N="type">Info</S>
+      <S N="ProjectId">BrewingCats</S>
+      <S N="timestamp">5/3/2022 5:57:07 AM</S>
+      <S N="logId">b67a55f6-20220503T055707103</S>
+      <S N="tagId">tagId_2</S>
+      <S N="caller">gdpr.toast</S>
+      <S N="client">BrewingCatsCore</S>
+      <S N="ClientId">88d3e2f1-a767-56f8-357d2e53-66bfa743cb91</S>
+      <S N="message">User accepted TOS</S>
+      <S N="SessionId">b67a55f6-8d10-0e57-ae5834cd-c84a04274b7e</S>
+      <I64 N="ticks">1651557427103</I64>
+      <S N="category">GDPR</S>
+      <S N="indexId">202205</S>
+    </MS>
+  </Obj>
+</Objs>

@@ -1,0 +1,27 @@
+<Objs Version="1.1.0.1" xmlns="http://schemas.microsoft.com/powershell/2004/04">
+  <Obj RefId="0">
+    <TN RefId="0">
+      <T>System.Management.Automation.PSCustomObject</T>
+      <T>System.Object</T>
+    </TN>
+    <MS>
+      <S N="timezone">UTC-8</S>
+      <S N="timestamp">3/1/2021 11:42:34 PM</S>
+      <I64 N="height">1040</I64>
+      <S N="tagId">tagId_1</S>
+      <S N="caller">document.body</S>
+      <S N="message">Loading: http://localhost:1313/posts/</S>
+      <S N="SessionId">810c87ed-35d9-c8f1-30f930f1-5a6b81325208</S>
+      <S N="logId">810c87ed-20210301T234234295</S>
+      <S N="siteVersion">3.15.17</S>
+      <S N="indexId">202103</S>
+      <I64 N="ticks">1614642154295</I64>
+      <S N="client">BrewingCatsCore</S>
+      <S N="type">Info</S>
+      <S N="ClientId">e73fc4cb-e84a-0941-87b1b062-29f15835246e</S>
+      <S N="category">Bootstrap</S>
+      <S N="url">http://localhost:1313/posts/</S>
+      <I64 N="width">1920</I64>
+    </MS>
+  </Obj>
+</Objs>
