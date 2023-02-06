@@ -4628,5 +4628,42 @@
     "ClientId": "ce45d1b1-69f1-1d51-f91274dd-5155eb59bd75",
     "type": "Info",
     "ResponseTimeMs": 26
+  },
+  {
+    "SessionId": "903a86f5-6c98-69ee-b971e17f-79f9c9bb08f7",
+    "timestamp": "2/6/2023 9:10:19 AM",
+    "client": "BrewingCatsCore",
+    "logId": "903a86f5-20230206T091019519",
+    "BrewingCatsCoreVersion": "4.35",
+    "caller": "BrewingCatsCore.Control",
+    "message": "New user session",
+    "ticks": 1675674619519,
+    "indexId": "202302",
+    "category": "Bootstrap",
+    "ProjectId": "staging-BrewingCats",
+    "tagId": "tagId_7",
+    "ClientId": "6fd21d05-4d9f-4c62-6dbc06fd-9d7d8321fba1",
+    "type": "Info",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+  },
+  {
+    "timezone": "UTC-8",
+    "SessionId": "903a86f5-6c98-69ee-b971e17f-79f9c9bb08f7",
+    "timestamp": "2/6/2023 9:10:19 AM",
+    "width": 642,
+    "client": "BrewingCatsCore",
+    "siteVersion": "4.35.35",
+    "height": 609,
+    "logId": "903a86f5-20230206T091019524",
+    "url": "https://staging.brewingcats.com/",
+    "caller": "document.body",
+    "message": "Loading: https://staging.brewingcats.com/",
+    "ticks": 1675674619524,
+    "indexId": "202302",
+    "category": "Bootstrap",
+    "ProjectId": "staging-BrewingCats",
+    "tagId": "tagId_1",
+    "ClientId": "6fd21d05-4d9f-4c62-6dbc06fd-9d7d8321fba1",
+    "type": "Info"
   }
 ]
